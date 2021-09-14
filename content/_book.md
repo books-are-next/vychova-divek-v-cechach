@@ -12,8 +12,6 @@ meta:
 chapters:
   - vychova_divek_v_cechach_001.html
   - vychova_divek_v_cechach_002.html
-  - vychova_divek_v_cechach_003.html
-  - vychova_divek_v_cechach_004.html
   - vychova_divek_v_cechach_005.html
   - vychova_divek_v_cechach_006.html
   - vychova_divek_v_cechach_007.html
@@ -27,8 +25,31 @@ chapters:
   - vychova_divek_v_cechach_015.html
   - vychova_divek_v_cechach_016.html
   - vychova_divek_v_cechach_017.html
-  - vychova_divek_v_cechach_018.html
-tocBase: []
+tocBase:
+  - link: vychova_divek_v_cechach_005.html
+    title: I
+  - link: vychova_divek_v_cechach_006.html
+    title: II
+  - link: vychova_divek_v_cechach_007.html
+    title: III
+  - link: vychova_divek_v_cechach_008.html
+    title: IV
+  - link: vychova_divek_v_cechach_009.html
+    title: V
+  - link: vychova_divek_v_cechach_010.html
+    title: VI
+  - link: vychova_divek_v_cechach_011.html
+    title: VII
+  - link: vychova_divek_v_cechach_012.html
+    title: VIII
+  - link: vychova_divek_v_cechach_013.html
+    title: IX
+  - link: vychova_divek_v_cechach_014.html
+    title: X
+  - link: vychova_divek_v_cechach_015.html
+    title: XI
+  - link: vychova_divek_v_cechach_016.html
+    title: XII
 static:
   - style
   - scripts
