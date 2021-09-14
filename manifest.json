@@ -1,0 +1,758 @@
+{
+  "author": "Michal Viewegh",
+  "identifier": "viewegh-vychova-divek-v-cechach-368874c",
+  "languagecode": "cs",
+  "modified": "2021-09-14T12:20:15.946Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Výchova dívek v Čechách",
+  "revision": "368874c",
+  "generatedAt": {
+    "date": "Tue Sep 14 2021 12:58:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631624329082
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 153,
+      "chars": 977,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "next": "vychova_divek_v_cechach_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "vychova_divek_v_cechach_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "vychova_divek_v_cechach_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "vychova_divek_v_cechach_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "vychova_divek_v_cechach_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "vychova_divek_v_cechach_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "vychova_divek_v_cechach_001.html",
+      "next": "vychova_divek_v_cechach_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "vychova_divek_v_cechach_005.html",
+      "words": 4008,
+      "chars": 25748,
+      "ideas": 224,
+      "role": "chapter",
+      "order": 2,
+      "prev": "vychova_divek_v_cechach_002.html",
+      "next": "vychova_divek_v_cechach_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "vychova_divek_v_cechach_006.html",
+      "words": 2791,
+      "chars": 17311,
+      "ideas": 188,
+      "role": "chapter",
+      "order": 3,
+      "prev": "vychova_divek_v_cechach_005.html",
+      "next": "vychova_divek_v_cechach_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "vychova_divek_v_cechach_007.html",
+      "words": 2636,
+      "chars": 16828,
+      "ideas": 172,
+      "role": "chapter",
+      "order": 4,
+      "prev": "vychova_divek_v_cechach_006.html",
+      "next": "vychova_divek_v_cechach_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "vychova_divek_v_cechach_008.html",
+      "words": 4763,
+      "chars": 30337,
+      "ideas": 301,
+      "role": "chapter",
+      "order": 5,
+      "prev": "vychova_divek_v_cechach_007.html",
+      "next": "vychova_divek_v_cechach_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "vychova_divek_v_cechach_009.html",
+      "words": 4251,
+      "chars": 26564,
+      "ideas": 294,
+      "role": "chapter",
+      "order": 6,
+      "prev": "vychova_divek_v_cechach_008.html",
+      "next": "vychova_divek_v_cechach_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "vychova_divek_v_cechach_010.html",
+      "words": 3009,
+      "chars": 18470,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 7,
+      "prev": "vychova_divek_v_cechach_009.html",
+      "next": "vychova_divek_v_cechach_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "vychova_divek_v_cechach_011.html",
+      "words": 3789,
+      "chars": 23788,
+      "ideas": 182,
+      "role": "chapter",
+      "order": 8,
+      "prev": "vychova_divek_v_cechach_010.html",
+      "next": "vychova_divek_v_cechach_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "vychova_divek_v_cechach_012.html",
+      "words": 3886,
+      "chars": 24387,
+      "ideas": 285,
+      "role": "chapter",
+      "order": 9,
+      "prev": "vychova_divek_v_cechach_011.html",
+      "next": "vychova_divek_v_cechach_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "vychova_divek_v_cechach_013.html",
+      "words": 5132,
+      "chars": 33253,
+      "ideas": 306,
+      "role": "chapter",
+      "order": 10,
+      "prev": "vychova_divek_v_cechach_012.html",
+      "next": "vychova_divek_v_cechach_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "vychova_divek_v_cechach_014.html",
+      "words": 5825,
+      "chars": 36380,
+      "ideas": 243,
+      "role": "chapter",
+      "order": 11,
+      "prev": "vychova_divek_v_cechach_013.html",
+      "next": "vychova_divek_v_cechach_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "vychova_divek_v_cechach_015.html",
+      "words": 1383,
+      "chars": 8589,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 12,
+      "prev": "vychova_divek_v_cechach_014.html",
+      "next": "vychova_divek_v_cechach_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "vychova_divek_v_cechach_016.html",
+      "words": 1592,
+      "chars": 9790,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 13,
+      "prev": "vychova_divek_v_cechach_015.html",
+      "next": "vychova_divek_v_cechach_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "vychova_divek_v_cechach_017.html",
+      "words": 101,
+      "chars": 645,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 14,
+      "prev": "vychova_divek_v_cechach_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 43319,
+      "chars": 273067,
+      "ideas": 2547
+    },
+    "chapters": {
+      "words": 43166,
+      "chars": 272090,
+      "ideas": 2523
+    }
+  }
+}
