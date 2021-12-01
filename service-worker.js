@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-5ec1619';
+const CACHE = 'cache-9ad2807';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./manifest.json","./index.html","./resources.html","./vychova_divek_v_cechach_001.html","./vychova_divek_v_cechach_002.html","./vychova_divek_v_cechach_005.html","./vychova_divek_v_cechach_006.html","./vychova_divek_v_cechach_007.html","./vychova_divek_v_cechach_008.html","./vychova_divek_v_cechach_009.html","./vychova_divek_v_cechach_011.html","./vychova_divek_v_cechach_010.html","./vychova_divek_v_cechach_012.html","./vychova_divek_v_cechach_013.html","./vychova_divek_v_cechach_015.html","./vychova_divek_v_cechach_014.html","./vychova_divek_v_cechach_016.html","./vychova_divek_v_cechach_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_vychova_divek_v_fmt.jpeg","./resources/index.xml","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./vychova_divek_v_cechach_001.html","./vychova_divek_v_cechach_002.html","./vychova_divek_v_cechach_007.html","./vychova_divek_v_cechach_006.html","./vychova_divek_v_cechach_005.html","./vychova_divek_v_cechach_009.html","./vychova_divek_v_cechach_010.html","./vychova_divek_v_cechach_011.html","./vychova_divek_v_cechach_012.html","./vychova_divek_v_cechach_013.html","./vychova_divek_v_cechach_014.html","./vychova_divek_v_cechach_015.html","./vychova_divek_v_cechach_016.html","./vychova_divek_v_cechach_008.html","./vychova_divek_v_cechach_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_vychova_divek_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./style/style.min.css","./scripts/bundle.js"]));
 }
 
 self.addEventListener('fetch', e => {
