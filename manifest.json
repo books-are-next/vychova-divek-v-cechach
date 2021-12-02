@@ -1,105 +1,46 @@
 {
   "author": "Michal Viewegh",
-  "identifier": "viewegh-vychova-divek-v-cechach-a90fa89",
+  "edition": "beletrie",
+  "identifier": "viewegh-vychova-divek-v-cechach-b308e81",
   "languagecode": "cs",
   "modified": "2021-09-14T12:20:15.946Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Výchova dívek v Čechách",
-  "revision": "a90fa89",
+  "revision": "b308e81",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:28:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379735018
+    "date": "Thu Dec 02 2021 19:56:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638475003839
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 153,
-      "chars": 977,
-      "ideas": 24,
-      "role": "colophon",
-      "order": null,
-      "next": "vychova_divek_v_cechach_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "vychova_divek_v_cechach_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "vychova_divek_v_cechach_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "vychova_divek_v_cechach_001.html",
+      "title": "Výchova dívek v Čechách",
+      "file": "vychova_divek_v_cechach_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "vychova_divek_v_cechach_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "vychova_divek_v_cechach_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "vychova_divek_v_cechach_001.html",
       "next": "vychova_divek_v_cechach_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I",
+      "title": "I • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_005.html",
       "words": 4008,
       "chars": 25748,
       "ideas": 224,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "vychova_divek_v_cechach_002.html",
       "next": "vychova_divek_v_cechach_006.html",
       "toc": [
@@ -107,7 +48,7 @@
           "index": 0,
           "level": 1,
           "name": "I",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -142,13 +83,13 @@
       ]
     },
     {
-      "title": "II",
+      "title": "II • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_006.html",
       "words": 2791,
       "chars": 17311,
       "ideas": 188,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "vychova_divek_v_cechach_005.html",
       "next": "vychova_divek_v_cechach_007.html",
       "toc": [
@@ -156,7 +97,7 @@
           "index": 0,
           "level": 1,
           "name": "II",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -177,13 +118,13 @@
       ]
     },
     {
-      "title": "III",
+      "title": "III • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_007.html",
       "words": 2636,
       "chars": 16828,
       "ideas": 172,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "vychova_divek_v_cechach_006.html",
       "next": "vychova_divek_v_cechach_008.html",
       "toc": [
@@ -191,7 +132,7 @@
           "index": 0,
           "level": 1,
           "name": "III",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -219,13 +160,13 @@
       ]
     },
     {
-      "title": "IV",
+      "title": "IV • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_008.html",
       "words": 4763,
       "chars": 30337,
       "ideas": 301,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "vychova_divek_v_cechach_007.html",
       "next": "vychova_divek_v_cechach_009.html",
       "toc": [
@@ -233,7 +174,7 @@
           "index": 0,
           "level": 1,
           "name": "IV",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -268,13 +209,13 @@
       ]
     },
     {
-      "title": "V",
+      "title": "V • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_009.html",
       "words": 4251,
       "chars": 26564,
       "ideas": 294,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "vychova_divek_v_cechach_008.html",
       "next": "vychova_divek_v_cechach_010.html",
       "toc": [
@@ -282,7 +223,7 @@
           "index": 0,
           "level": 1,
           "name": "V",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -324,13 +265,13 @@
       ]
     },
     {
-      "title": "VI",
+      "title": "VI • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_010.html",
       "words": 3009,
       "chars": 18470,
       "ideas": 148,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "vychova_divek_v_cechach_009.html",
       "next": "vychova_divek_v_cechach_011.html",
       "toc": [
@@ -338,7 +279,7 @@
           "index": 0,
           "level": 1,
           "name": "VI",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -373,13 +314,13 @@
       ]
     },
     {
-      "title": "VII",
+      "title": "VII • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_011.html",
       "words": 3789,
       "chars": 23788,
       "ideas": 182,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "vychova_divek_v_cechach_010.html",
       "next": "vychova_divek_v_cechach_012.html",
       "toc": [
@@ -387,7 +328,7 @@
           "index": 0,
           "level": 1,
           "name": "VII",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -429,13 +370,13 @@
       ]
     },
     {
-      "title": "VIII",
+      "title": "VIII • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_012.html",
       "words": 3886,
       "chars": 24387,
       "ideas": 285,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "vychova_divek_v_cechach_011.html",
       "next": "vychova_divek_v_cechach_013.html",
       "toc": [
@@ -443,7 +384,7 @@
           "index": 0,
           "level": 1,
           "name": "VIII",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -485,13 +426,13 @@
       ]
     },
     {
-      "title": "IX",
+      "title": "IX • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_013.html",
       "words": 5132,
       "chars": 33253,
       "ideas": 306,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "vychova_divek_v_cechach_012.html",
       "next": "vychova_divek_v_cechach_014.html",
       "toc": [
@@ -499,7 +440,7 @@
           "index": 0,
           "level": 1,
           "name": "IX",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -569,13 +510,13 @@
       ]
     },
     {
-      "title": "X",
+      "title": "X • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_014.html",
       "words": 5825,
       "chars": 36380,
       "ideas": 243,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "vychova_divek_v_cechach_013.html",
       "next": "vychova_divek_v_cechach_015.html",
       "toc": [
@@ -583,7 +524,7 @@
           "index": 0,
           "level": 1,
           "name": "X",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -618,13 +559,13 @@
       ]
     },
     {
-      "title": "XI",
+      "title": "XI • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_015.html",
       "words": 1383,
       "chars": 8589,
       "ideas": 79,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "vychova_divek_v_cechach_014.html",
       "next": "vychova_divek_v_cechach_016.html",
       "toc": [
@@ -632,7 +573,7 @@
           "index": 0,
           "level": 1,
           "name": "XI",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -660,13 +601,13 @@
       ]
     },
     {
-      "title": "XII",
+      "title": "XII • Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_016.html",
       "words": 1592,
       "chars": 9790,
       "ideas": 95,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "vychova_divek_v_cechach_015.html",
       "next": "vychova_divek_v_cechach_017.html",
       "toc": [
@@ -674,7 +615,7 @@
           "index": 0,
           "level": 1,
           "name": "XII",
-          "id": "chunk1",
+          "id": null,
           "children": [
             {
               "index": 1,
@@ -723,21 +664,41 @@
       ]
     },
     {
-      "title": "",
+      "title": "Výchova dívek v Čechách",
       "file": "vychova_divek_v_cechach_017.html",
       "words": 101,
       "chars": 645,
       "ideas": 6,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "vychova_divek_v_cechach_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Výchova dívek v Čechách",
+      "file": "colophon.html",
+      "words": 153,
+      "chars": 977,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "prev": "vychova_divek_v_cechach_017.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": "Tiráž",
+          "id": null,
           "children": []
         }
       ]
@@ -745,9 +706,9 @@
   ],
   "totals": {
     "all": {
-      "words": 43319,
-      "chars": 273067,
-      "ideas": 2547
+      "words": 43327,
+      "chars": 273115,
+      "ideas": 2551
     },
     "chapters": {
       "words": 43166,
