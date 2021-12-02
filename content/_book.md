@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-14T12:20:15.946Z'
   languageCode: cs
-chapters:
-  - vychova_divek_v_cechach_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - vychova_divek_v_cechach_002.html
   - vychova_divek_v_cechach_005.html
   - vychova_divek_v_cechach_006.html
@@ -25,6 +26,7 @@ chapters:
   - vychova_divek_v_cechach_015.html
   - vychova_divek_v_cechach_016.html
   - vychova_divek_v_cechach_017.html
+  - colophon.html
 tocBase:
   - link: vychova_divek_v_cechach_005.html
     title: I
@@ -56,5 +58,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
