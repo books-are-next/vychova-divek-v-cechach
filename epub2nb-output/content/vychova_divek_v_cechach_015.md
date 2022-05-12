@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 ## 1

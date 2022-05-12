@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 ## 1

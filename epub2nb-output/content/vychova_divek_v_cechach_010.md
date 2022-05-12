@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 ## 1

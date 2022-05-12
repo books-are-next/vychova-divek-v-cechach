@@ -1,21 +1,40 @@
 {
-  "author": "Michal Viewegh",
-  "edition": "beletrie",
-  "identifier": "viewegh-vychova-divek-v-cechach-b308e81",
-  "languagecode": "cs",
-  "modified": "2021-09-14T12:20:15.946Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Výchova dívek v Čechách",
-  "revision": "b308e81",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-vychova-divek-v-cechach-30c2fba",
+  "revision": "30c2fba",
+  "readingOrder": [
+    "promo.html",
+    "vychova_divek_v_cechach_005.html",
+    "vychova_divek_v_cechach_006.html",
+    "vychova_divek_v_cechach_007.html",
+    "vychova_divek_v_cechach_008.html",
+    "vychova_divek_v_cechach_009.html",
+    "vychova_divek_v_cechach_010.html",
+    "vychova_divek_v_cechach_011.html",
+    "vychova_divek_v_cechach_012.html",
+    "vychova_divek_v_cechach_013.html",
+    "vychova_divek_v_cechach_014.html",
+    "vychova_divek_v_cechach_015.html",
+    "vychova_divek_v_cechach_016.html",
+    "vychova_divek_v_cechach_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 19:56:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638475003839
+    "date": "Thu May 12 2022 10:36:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351783133
   },
   "documents": [
     {
-      "title": "Výchova dívek v Čechách",
-      "file": "vychova_divek_v_cechach_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +42,17 @@
       "order": 0,
       "prev": null,
       "next": "vychova_divek_v_cechach_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "I • Výchova dívek v Čechách",
+      "title": "I",
       "file": "vychova_divek_v_cechach_005.html",
       "words": 4008,
       "chars": 25748,
       "ideas": 224,
       "role": "chapter",
       "order": 1,
-      "prev": "vychova_divek_v_cechach_002.html",
+      "prev": "promo.html",
       "next": "vychova_divek_v_cechach_006.html",
       "toc": [
         {
@@ -83,7 +94,7 @@
       ]
     },
     {
-      "title": "II • Výchova dívek v Čechách",
+      "title": "II",
       "file": "vychova_divek_v_cechach_006.html",
       "words": 2791,
       "chars": 17311,
@@ -118,7 +129,7 @@
       ]
     },
     {
-      "title": "III • Výchova dívek v Čechách",
+      "title": "III",
       "file": "vychova_divek_v_cechach_007.html",
       "words": 2636,
       "chars": 16828,
@@ -160,7 +171,7 @@
       ]
     },
     {
-      "title": "IV • Výchova dívek v Čechách",
+      "title": "IV",
       "file": "vychova_divek_v_cechach_008.html",
       "words": 4763,
       "chars": 30337,
@@ -209,7 +220,7 @@
       ]
     },
     {
-      "title": "V • Výchova dívek v Čechách",
+      "title": "V",
       "file": "vychova_divek_v_cechach_009.html",
       "words": 4251,
       "chars": 26564,
@@ -265,7 +276,7 @@
       ]
     },
     {
-      "title": "VI • Výchova dívek v Čechách",
+      "title": "VI",
       "file": "vychova_divek_v_cechach_010.html",
       "words": 3009,
       "chars": 18470,
@@ -314,7 +325,7 @@
       ]
     },
     {
-      "title": "VII • Výchova dívek v Čechách",
+      "title": "VII",
       "file": "vychova_divek_v_cechach_011.html",
       "words": 3789,
       "chars": 23788,
@@ -370,7 +381,7 @@
       ]
     },
     {
-      "title": "VIII • Výchova dívek v Čechách",
+      "title": "VIII",
       "file": "vychova_divek_v_cechach_012.html",
       "words": 3886,
       "chars": 24387,
@@ -426,7 +437,7 @@
       ]
     },
     {
-      "title": "IX • Výchova dívek v Čechách",
+      "title": "IX",
       "file": "vychova_divek_v_cechach_013.html",
       "words": 5132,
       "chars": 33253,
@@ -510,7 +521,7 @@
       ]
     },
     {
-      "title": "X • Výchova dívek v Čechách",
+      "title": "X",
       "file": "vychova_divek_v_cechach_014.html",
       "words": 5825,
       "chars": 36380,
@@ -559,7 +570,7 @@
       ]
     },
     {
-      "title": "XI • Výchova dívek v Čechách",
+      "title": "XI",
       "file": "vychova_divek_v_cechach_015.html",
       "words": 1383,
       "chars": 8589,
@@ -601,7 +612,7 @@
       ]
     },
     {
-      "title": "XII • Výchova dívek v Čechách",
+      "title": "XII",
       "file": "vychova_divek_v_cechach_016.html",
       "words": 1592,
       "chars": 9790,
@@ -684,11 +695,11 @@
       ]
     },
     {
-      "title": "Tiráž • Výchova dívek v Čechách",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 153,
-      "chars": 977,
-      "ideas": 24,
+      "words": 132,
+      "chars": 833,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "vychova_divek_v_cechach_017.html",
@@ -706,9 +717,9 @@
   ],
   "totals": {
     "all": {
-      "words": 43327,
-      "chars": 273115,
-      "ideas": 2551
+      "words": 43306,
+      "chars": 272971,
+      "ideas": 2544
     },
     "chapters": {
       "words": 43166,

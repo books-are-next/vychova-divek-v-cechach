@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Anglický spisovatel Graham Greene byl mimo jiné znám tím, že posledními větami svých knih s oblibou občas problematizoval veškerá svá předchozí tvrzení. V případě tohoto románu by takový _greeneovský_ konec mohl vypadat kupříkladu takto:

@@ -45,7 +45,7 @@
         "filename": "vychova_divek_v_cechach_002.md",
         "xhtml": "vychova_divek_v_cechach_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -236,7 +236,7 @@
       "identifier": "urn:uuid:f85562b8-7b0d-4c29-a5ea-d045bf9286d2",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T19:55:42.820Z"
+      "modified": "2019-04-05T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -423,6 +423,6 @@
       "user": "books-are-next",
       "repo": "vychova-divek-v-cechach"
     },
-    "generatedAt": 1638474943609
+    "generatedAt": 1652351326311
   }
 }

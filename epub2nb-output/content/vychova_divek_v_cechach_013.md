@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 ## 1
