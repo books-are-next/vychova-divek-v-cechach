@@ -46,7 +46,7 @@
         "filename": "vychova_divek_v_cechach_002.md",
         "xhtml": "vychova_divek_v_cechach_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -427,4 +427,3 @@
     "generatedAt": 1631623988459
   }
 }
-
