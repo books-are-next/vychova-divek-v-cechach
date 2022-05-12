@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Výchova dívek v Čechách
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - vychova_divek_v_cechach_002.html
+  - promo.html
   - vychova_divek_v_cechach_005.html
   - vychova_divek_v_cechach_006.html
   - vychova_divek_v_cechach_007.html

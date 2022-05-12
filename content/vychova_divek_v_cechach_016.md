@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 ## 1

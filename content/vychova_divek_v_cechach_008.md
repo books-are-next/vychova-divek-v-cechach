@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 ## 1

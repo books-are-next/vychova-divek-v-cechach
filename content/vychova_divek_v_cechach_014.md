@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 ## 1

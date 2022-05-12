@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 ## 1

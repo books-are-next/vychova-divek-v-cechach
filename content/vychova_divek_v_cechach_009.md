@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 ## 1
