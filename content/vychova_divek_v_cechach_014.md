@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 _Jak nezmapováno je ženské chtění._
@@ -21,7 +23,9 @@ Vyhrnula si barevné tričko (barevná trička, šátky, korále a ponča z je
 
 „Je to… opravdu hezké.“
 
-  
+</section>
+
+<section>
 
 Steve – podobně jako Beáta – také psal. Jejich zájmy se díky tomu takřka ideálně doplňovaly. Dopoledne učili angličtinu a odpoledne si většinou vyrazili do města. Většinou chodili se známými k McDonaldovi, ale oblíbili si i kavárnu Velryba, FX Café a pizzerii Kmotra. Na mexická jídla, která si Beáta dle vlastních slov doslova _zamilovala_, přecházeli do Jo’s baru. Někdy se také _zastavili_ v redakcích pražských amerických novin Prague Post, Prognosis a Yazzyk. Večer se milovali a psali.
 
@@ -45,11 +49,15 @@ Ujišťuje mne, že to bude _bomba_.
 
 _Těším se, že si ji přečtu._
 
-  
+</section>
+
+<section>
 
 Teprve dnes si dodatečně přiznávám onu pokryteckou _samozřejmost_, ono předstírané _zasvěcení_, s nimiž jsem od Beáty klidně, bez mrknutí oka přijímal všechny ty bláznivé, šokující informace. Jenom proboha neprozradit, že _nejsem in_!
 
-  
+</section>
+
+<section>
 
 „Hodně teď chodíme do tý americký prádelny v Dejvicích…“
 
@@ -73,7 +81,9 @@ Nebo jindy:
 
 (Naštěstí jim to policajti zakázali.)
 
-  
+</section>
+
+<section>
 
 _Ale málokdo pochopil tak přesně jako Čapek, že odejít za moře, dát se na vojnu nebo najít poklad, upsat se čertu, zabít draka a získat princeznu nepociťoval člověk vlastně nikdy jako vyšší stupeň autentičnosti, ale jako její opak, že to vše hraničilo až s jakousi poruchou a nepořádkem… Čím dál méně se lidem vskutku podaří naplnit svůj osud, být sám sebou. A tak zbývají nakonec jen rozpaky a stud nad událostmi a činy, jejichž autentičnost je sporná._
 
@@ -115,13 +125,17 @@ Moje dcera. Můj andílek.
 
 Ale proč to povídám?
 
-  
+</section>
+
+<section>
 
 Hodně mi pomohla. Psaní také pomáhalo. Plus berličky každodenních povinností. To zubařské křeslo rovněž nebylo příliš pohodlné. Jinými slovy: pomohla i má nechuť _opravdu_ trpět.
 
 Po svém způsobu se mi snažila pomoct i Agáta – považovala za naprosto samozřejmé, že převezme místo své starší sestry. Začala se skrytými výzvami: Dívala se mi upřeně do očí, dotýkala se mne ňadérky a hladila mne jako nemocného králíčka. Posléze ji patrně napadlo, že by mi měla spíš dokázat, že už opravdu není dítě, a nápadně často se mnou hovořila o svých _dávných láskách_. Když mne později zvala na _soukromou oslavu_ svých patnáctých narozenin (naštěstí jsem právě v té době musel do Německa), její pohled vyjadřoval neochvějné přesvědčení, že mi bude stejně dobrou milenkou jako Beáta.
 
-  
+</section>
+
+<section>
 
 Ve Zbraslavance jsem jednoho dne potkal její matku – potěšilo mne, jak spontánně se ke mně hlásila.
 
@@ -145,7 +159,9 @@ Zase ta věcnost.
 
 „No dobře,“ namítala, „ale _takovýhle_?“
 
-  
+</section>
+
+<section>
 
 Trocha angličtiny:
 
@@ -163,7 +179,9 @@ suicide – sebevražda
 
 _Odkrývání skutečnosti postupuje tím, že se zbavujeme opotřebovaných forem vyprávění. (Robbe-Grillet)_
 
-  
+</section>
+
+<section>
 
 A ještě jednu poznámku k technice vyprávění (napadla mne v souvislosti se zmínkou o Královi): Čechov tvrdil, že zmíní-li se autor v povídce či v románu o pušce, mělo by se z ní později opravdu střílet – neměla by tam zkrátka být jen tak _náhodou_. Jsem si proto vědom toho, že provázejí-li v mém příběhu Krále od samého počátku dva ozbrojení strážci, aniž si některý z nich skutečně vystřelí, je tím tento nepsaný zákon literární tvorby porušen. Mrzí mne to, ale bylo to tak. Život se někdy zákonům literární tvorby vzpírá (mohl bych samozřejmě Krále nechat odprásknout dvojicí ukrajinských mafiánů ve smíchovské restauraci U Holubů, popřípadě ho nechat přidrátovat k traverze na dně nějaké přehrady, ale cosi mi brání takto zacházet s žijícím člověkem).
 
@@ -171,19 +189,25 @@ A ještě jednu poznámku k technice vyprávění (napadla mne v souvislosti 
 
 Dneska bylo Dušiček. Na vrátkách urnového háje jsem si přečetl náborový letáček Společnosti přátel žehu:
 
-  
+</section>
+
+<section>
 
 _Až se moje srdce v popel promění  
 po větru jej hoďte  
 aby zapadl v trávě na lukách_
 
-  
+</section>
+
+<section>
 
 Nic moc.
 
 Svých pět růží jsem pohodil na kameny svažující se k dotyčné _loučce_ – od včerejška jsem je měl na balkoně v zavařovací sklenici. Když jsem s pugétem dneska odcházel z domova, zaznamenal jsem, že moje žena kupodivu žárlí i na dívky zpopelněné a po větru rozptýlené.
 
-  
+</section>
+
+<section>
 
 Beáta mne informovala, že ji Steve pozval na Vánoce do Portlandu.
 
@@ -191,13 +215,17 @@ Na Den díkůvzdání.
 
 „Taky bych si dal krocana,“ řekl jsem.
 
-  
+</section>
+
+<section>
 
 _Je až neuvěřitelné, kolik Američanů si v Praze brzy najde partnerku. Američanky zdaleka takové štěstí nemají a s odporem poukazují na nové svazky, ve kterých údajně „patriarchální Američané hledají své submisivní protějšky“. Úzkostný feminismus amerických žen již dokázal odradit desetitisíce mužů a zběhlí Američané nehledají partnerky zdaleka jen v Evropě._
 
 — Věra Chaseová, Literární noviny
 
-  
+</section>
+
+<section>
 
 Před rokem mi pár dní po Dušičkách navrhl Jaroslav Kořán, abych mu napsal povídku pro Playboy. V té době jsem byl už opět odkázán pouze na svůj učitelský plat, a proto jsem jeho lukrativní nabídku rád přijal.
 
@@ -209,13 +237,17 @@ Vesele to Stevovi přeložila.
 
 „O tobě. Jmenuje se _Intelektuálka_.“
 
-  
+</section>
+
+<section>
 
 Povídka vyšla v dubnu příštího roku.
 
 Nad jejím případným zařazením do této knihy jsem dlouho váhal – jednak je očividně poznamenána snahou vyhovět nárokům specifického čtenářského publika, má autostylizace do role _rozvedeného světáka_ musí po tom všem, co jsem zde o sobě a o svém manželství řekl, nutně působit komicky, a do třetice, i na mne podobné přechody do zcela jiného příběhu působí většinou rušivě (začlenění „Garpových“ povídek do Irvingova skvělého románu Svět podle Garpa nepovažuji například za šťastné). Jestliže jsem se nakonec přesto rozhodl ve prospěch jejího zařazení, je to jen díky nezvratnému přesvědčení, že přes některé vnějškové rozdíly píšu stále týž příběh (a navíc vám prostě musím demonstrovat onu svou geniální intuici, s níž jsem v povídce předpověděl pozdější Beátiny aktivity ekologické).
 
-  
+</section>
+
+<section>
 
 _INTELEKTUÁLKA_
 
@@ -493,7 +525,9 @@ Dostal jsem od ní plnicí pero značky _Parker_.
 
 To abych věděl, kde je moje místo.
 
-  
+</section>
+
+<section>
 
 Když jsem po Novém roce nastoupil opět do školy, byl jsem informován, že Steve už se letos ze Států nevrátí. Beáta prý do Ameriky vůbec neodletěla.
 
@@ -516,3 +550,5 @@ Mluvila bezmála vesele.
 „Co je to za blbou otázku? Posloucháš mě do prdele vůbec?“
 
 Jak vidno, osvojila si _šťavnatý cynismus starých žen_, známý to _důsledek zklamaného očekávání_.
+
+</section>

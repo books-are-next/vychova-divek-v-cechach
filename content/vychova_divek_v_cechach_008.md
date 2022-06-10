@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 „A když tu smutnou princeznu rozesměješ,“ zeptala se při snídani má žena, „dá ti ji alespoň za ženu?“
@@ -11,7 +13,9 @@ _Nenuceně_ si roztírala sýr na topinku. Pohlédl jsem na dceru: pozorně posl
 
 „Ženu už mám,“ řekl jsem. „Budu žádat _celé_ království.“
 
-  
+</section>
+
+<section>
 
 Vestibul stanice metra Smíchovské nádraží, který byl tradičním shromaždištěm před _výchovnými koncerty_, radostně hučel. Zatímco dívky na nezvyklých podpatcích nejistě a spíše bezcílně korzovaly halou (rotujíce přitom svými překážejícími kabelkami), prakticky všichni dosud přítomní chlapci se na způsob včelího roje tlačili kolem slečny učitelky Trakařové, jež stála čelem k nástěnnému automatu s kondomy a s výrazem průkopnice sexuální osvěty jim _bez falešného ostychu_ hlasitě vybírala nejspolehlivější druhy, popřípadě pomáhala dobýt nazpět vzpříčenou pětikorunu. S výjimkou kolegyně Chvátalové-Sukové, která s gestikulací dirigenta Wagnerova Soumraku bohů o čemsi přesvědčovala vyděšeného dozorčího stanice, postávali zbylí členové pedagogického doprovodu v malém rozpačitém hloučku, a uhýbajíce před pohledy kolemjdoucích, snažili se nevnímat rachot vytrvale drancovaného automatu. Ve snaze být odtud co nejdříve pryč jsem jim pouze krátce kývl a tiše jsem zavelel k odchodu:
 
@@ -33,7 +37,9 @@ Láďa se neochotně postavil za obě děvčata. Zákaz nošení džínsových k
 
 „Céčko, nástup!!!“ zařval jsem mocně.
 
-  
+</section>
+
+<section>
 
 Ve foyer koncertního sálu Městské knihovny, zaplněném mladými přáteli vážné hudby z pěti pražských škol, se před začátkem komponovaného mozartovského pořadu stylově vznášela _Malá noční hudba_. Odvedl jsem svou třídu do relativně nejklidnějšího zákoutí před pánskými záchodky, kde jsem pronesl krátký apelativní projev, proložený několika _mužnými výčitkami_, vztahujícími se k předchozím problémům na Smíchovském nádraží.
 
@@ -177,7 +183,9 @@ Nevěřícně jsem pohlédl na Jaromíra, ale ten přikývl:
 
 „Ráno jim dal písemku,“ řekl. „Z netopýra.“
 
-  
+</section>
+
+<section>
 
 Legrácky. _Študáci a kantoři_.
 
@@ -191,7 +199,9 @@ Dělat náladu. Nemluvit o nemocech. Od dětství si to nesu z domova: _Musít
 
 Ale to předbíhám.
 
-  
+</section>
+
+<section>
 
 Využil jsem bezstarostného veselí, které po zprávě o trýznění kolegy Stříbrného v kabinetě zavládlo, a jakoby mimochodem jsem kolegy informoval o svém _vedlejšáku_; nedalo se to koneckonců již déle odkládat. Ve snaze, aby má informace co možná nejvíce _zapadla_, jsem svou novou práci prezentoval coby _víceméně standardní doučování_, ale ani tak se můj záměr nezdařil.
 
@@ -223,7 +233,9 @@ Nato se odebrala na oběd.
 
 „Já jen,“ otočila se ke mně starostlivě ve dveřích, „aby ses s tím estébákem nějak _nespálil…_“
 
-  
+</section>
+
+<section>
 
 Neměl jsem čas o jejím sdělení nějak hlouběji přemýšlet, neboť Lenka s Jaromírem mne vzápětí zatáhli do vzpomínání na _vzornou žákyni_ Beátu Královou: s její mladší sestrou se to prý vůbec nedá srovnat. Jaromír dokonce vyštrachal fotografii ze školního roku 1983/1984 – to jí bylo takových jedenáct: seděla v první řadě, v bílé krajkové halence, ruce podle fotografových pokynů složené na klíně modré džínsové sukně (byla to ona známá agresivní džínsová modř, kterou na barevných fotografiích často vytváří nepříliš kvalitní film). Na opálených nohách měla bílé ponožky a rozdrbané dětské bačkůrky. Ucítil jsem jakési prchavě neurčité, pobavené dojetí.
 
@@ -259,7 +271,9 @@ V jejich smíchu jsem pro sebe vyčetl nadějný příslib, že možná nebudu 
 
 „Prosím tě,“ řekl jsem. „Prosím tě to _dopiš_.“
 
-  
+</section>
+
+<section>
 
 Irena už odcházela, a tak jsem si chtě nechtě musel přisednout ke Stevovi. Vypadalo to na opravdu těžký den.
 
@@ -271,13 +285,17 @@ Steve u nás vyučoval angličtinu, neboť ve školním roce 1991/1992 americk�
 
 V životě jsem nesnědl oběd tak rychle.
 
-  
+</section>
+
+<section>
 
 Věřte tomu, že tu ten Američan není pro okrasu.
 
 Jinými slovy: _Smysl kumštu není v pointě_. (Jan Zábrana)
 
-  
+</section>
+
+<section>
 
 Ještě poznámka: Vyptával jsem se loni v Hamburku Karla Trinke­witze mimo jiné i na to, jak se dívá na používání citátů v současné próze. Později mi poslal svůj esej _O postmoderním románu_, kde za­trhl tento citát z Rolanda Barthese: _Nikdy neexistuje žádná originalita. Žijeme v jistém druhu velké výměny, ve velkém mezitextu. Ideje kolují, jazyk rovněž. To jediné, co přitom můžeme činit a navyknout si, je jejich kombinování. Ale jedna idea přece není vytvořena: ona je zde, je jako jistý druh velkého trhu ve velké ekonomice. Myšlenky cirkulují a jen v jistém okamžiku jsou zastaveny, jsou srovnány, a dojde, asi jako ve filmu, k montáži – a to vydává dílo._
 
@@ -295,7 +313,9 @@ Agáta se mnou i nadále nemluvila.
 
 Její rodiče nebyli doma.
 
-  
+</section>
+
+<section>
 
 V podkrovním pokoji došlo k jediné postřehnutelné změně: bylo tu cítit víno. Zaostřil jsem do tmy: láhev stála na nočním stolku. Beáta byla přikrytá toliko zmačkaným prostěradlem – nebyl jsem si zatím stoprocentně jistý, ale připadalo mi, že je nahá. Peřina ležela na zemi vedle postele. Obojí mě krapet znervózňovalo, a tak jsem raději ani nerozsvěcel a jen jsem na pojízdné židli nepatrně couvl směrem ke knihovně, jako by hřbety většinou dobře známých knih, jichž jsem se nyní konečky prstů dotýkal, mohly ono napětí bezpečně _uzemnit_. Dlouho jsem přemítal, jak vůbec začít, až jsem z nedostatku lepších nápadů musel použít ten včerejší Králův: Jsem nešťastný? Víceméně nejsem. Jednoduše jí teda ukážu, jak to dělám:
 
@@ -329,7 +349,9 @@ Nakonec jsem jí – jak jsem byl v ráži – prozradil i ten nejrafinovan�
 
 Šlusčíslo nejmazanějších egoistů.
 
-  
+</section>
+
+<section>
 
 Stačilo mi necelých čtyřicet minut, abych za pomoci dvou desítek citátů vyřešil úplně všechno: rozpad tradičních hodnot, rostoucí odcizení, kult konzumu, krizi rodiny, ztrátu Boha i ztrátu identity – a ještě mi zbylo deset minut na shrnutí a opakování. Byla to _ukázková_ hodina.
 
@@ -339,7 +361,9 @@ Byl jsem se sebou spokojený.
 
 Byla už slušně namazaná a já jsem ji pouze _nudil tím_, _že jsem jí opakoval rozumné věci_. (Saul Bellow)
 
-  
+</section>
+
+<section>
 
 Pokračovat nemělo smysl. Kdykoli se natáhla pro láhev, prostěradlo z ní padalo. Nakonec už se ani neobtěžovala znovu se přikrývat, což ovšem nebyla žádná koketerie, nýbrž (podobně jako v případě jejích mastných, rozcuchaných vlasů) vědomá, demonstrativní lhostejnost. Všechny pozice, které na posteli zaujímala, byly jen a jen _účelové_ – aby ulevila přeleželé ruce, aby se mohla opřít zády o zeď, aby dosáhla na víno – a tím, že mi přitom odhalovala _všechno_, ukazovala pouze to, jak naprosto kašle na mou nežádoucí přítomnost.
 
@@ -395,7 +419,9 @@ Strašlivě jsem postrádal nějaký použitelný citát.
 
 „Ba ne, princezno,“ řekl jsem, „já vám ten střevíc nezavážu.“
 
-  
+</section>
+
+<section>
 
 Král se přijel jenom převléknout. Řidič ani nevypínal motor.
 
@@ -415,7 +441,9 @@ Znělo to nespokojeně. Neumím si poradit sám? Musím ho stále s něčím ob
 
 „Zítra,“ řekl ve dveřích. „Zítra vám věnuju třeba hodinu.“
 
-  
+</section>
+
+<section>
 
 Rozloučil jsem se s paní Královou a šel jsem domů. Na zahradě jsem narazil na Petříka s Jiříkem. _Malíkovou hranou_ pravé ruky celkem úspěšně lámali cihly řečené _hurdisky_.
 
@@ -481,7 +509,9 @@ Zdvihl ironicky obočí:
 
 „Takže už nechcete odhalit to _strašný tajemství_?“
 
-  
+</section>
+
+<section>
 
 Limuzína téměř bezhlučně klouzala temnými ulicemi. Reflektory se zmocňovaly stromů v okolních zahradách. Za zatáčkou se objevil černý masiv vltavského údolí. Prostrčil jsem ruku okénkem a položil ji na střechu: byla chladná, ale nikoli nepříjemně.
 
@@ -503,7 +533,9 @@ Jeli jsme do Záběhlic.
 
 Smáli se.
 
-  
+</section>
+
+<section>
 
 Hotel _Vltava_ vyhlížel ze silnice poněkud opuštěně, ale k mému překvapení bylo parkoviště před vchodem takřka plné – převažovaly vozy německých poznávacích značek. Nad dvojkřídlými vstupními dveřmi, přesně v tom místě, kde na domečku mých dobrých, pracovitých rodičů visí rezavá koňská podkova, zde byla zavěšena nepřehlédnutelná červená lucernička.
 
@@ -632,3 +664,5 @@ Natočil jsem se stranou a sledoval jsem dráhu jeho pohledu: končila na parke
 Král si mne všiml.
 
 „Jo,“ řekl kysele. „Tamten krásnej _gigolo_. Tvrdil mi, že je _zahradník_.“
+
+</section>

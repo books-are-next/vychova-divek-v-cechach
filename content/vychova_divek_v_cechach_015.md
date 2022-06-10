@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Leden byl posledním měsícem mé pedagogické dráhy.
@@ -11,7 +13,9 @@ Začal jsem odnášet domů beletrii, kterou jsem si do kabinetu za tu dobu nano
 
 Dával jsem jenom dvojky a jedničky.
 
-  
+</section>
+
+<section>
 
 Děti se záhy začaly tvářit slavnostně a tajuplně. Pochopil jsem, že už mi vybírají dárek.
 
@@ -29,13 +33,17 @@ _Dojatě_ jsem je pozval k sobě domů.
 
 Jako Masaryk.
 
-  
+</section>
+
+<section>
 
 Krátká bilance: Za necelé čtyři roky svého učitelování jsem s dětmi své třídy strávil necelých tisíc hodin. Napsal a režíroval jsem dvě školní divadelní představení. Zabavil jsem jeden vyskakovací nůž, dva dělobuchy a dvoje pornografické karty. V duchu svého optimistického založení si namlouvám, že to možná k něčemu bylo. Zažil jsem čtyři ministry školství a tři ředitele: prvního – dosazeného – jsem pomáhal sesadit, druhého zvolit. Třetí byl už opět dosazený. Seděl jsem na necelé stovce pedagogických porad, rad, zasedání, schůzí, přípravných výborů, ustavujících konferencí a protestních shromáždění a napsal jsem asi dvě desítky diskusních příspěvků, připomínek, stanovisek, petic, novinových článků, otevřených dopisů a Souborů opatření ke zlepšení chodu školy. Navzdory svému optimismu se obávám, že to většinou k ničemu nebylo.
 
 Tento román je moje poslední _stížnost_.
 
-  
+</section>
+
+<section>
 
 Dohodli jsme se s Beátou, že rozlučkový večírek uspořádáme společně.
 
@@ -87,7 +95,9 @@ Dokonce jsem letěl i do Německa.
 
 Český učitel letí s Lufthansou!
 
-  
+</section>
+
+<section>
 
 Na Beátu jsem si – po pravdě řečeno – mnohokrát nevzpomněl. Sešla z očí.
 
@@ -107,7 +117,9 @@ Byl mi docela sympatický.
 
 Jeho veršům jsem ovšem nerozuměl.
 
-  
+</section>
+
+<section>
 
 Teprve jednoho mrazivého podvečera na konci února jsem ji konečně potkal osobně – cestou z práce, před obchodním domem _K-mart_, kde s přáteli z hnutí _SOS Animals_ manifestovala za práva zvířat.
 
@@ -123,7 +135,9 @@ Při pohledu na její nahá ramena jsem ji k sobě zatoužil přivinout, ale ne
 
 Šel jsem tudíž rovnou na metro.
 
-  
+</section>
+
+<section>
 
 Někdy v polovině dubna sháněla v centru Prahy hrnčířskou hlínu, a tak se konečně stavila v redakci.
 
@@ -155,7 +169,9 @@ Beátu patrně napadlo totéž, neboť nám okamžitě začala vyprávět, jak s
 
 Její sympatická sebeironie přinesla do redakční místnosti potřebné uvolnění – smáli jsme se spolu s ní.
 
-  
+</section>
+
+<section>
 
 Jakuba – podobně jako Magora – jsem osobně neznal. Měl by to logicky být některý z těch kluků před _K-martem_, ale dodnes netuším který. Musel to ale být citlivý, obětavý člověk, který neváhal přinášet hnutí osobní oběti, neboť jakmile se mu donesla všechna ta hrozná čísla o masakrovaných velrybách, zrušil termín svatby a odjel na rok do Norska.
 
@@ -169,7 +185,11 @@ Součástí počítačového systému Windows, v němž – jak už jsem se tu
 
 Ale ona tam nikde není.
 
-  
+</section>
+
+<section>
 
 _Co se stalo, pohádko?  
 Zabloudilo kuřátko._
+
+</section>

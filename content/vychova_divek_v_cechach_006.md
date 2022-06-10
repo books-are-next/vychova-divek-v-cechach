@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Samotný fakt, že Beáta _trochu píše_, mě nijak nepřekvapoval: každý z nás koneckonců jak známo _trpí tím, že zanikne neoslyšen a nepostřehnut ve lhostejném vesmíru, což dokazuje nezadržitelný růst masové grafomanie mezi politiky, taxikáři, rodičkami, milenkami, vrahy, zloději, prostitutkami, prefekty, lékaři i pacienty_ (Milan Kundera). Navíc jsem věděl, že má za sebou první rok na filozofické fakultě (po úspěšném složení zkoušek v letním semestru ovšem studium na _vlastní žádost_ přerušila), což je prostředí, kde – jak jsem měl příležitost sám poznat – se člověk psaním _legitimuje_; nepsat vůbec znamená vzbuzovat podezření, že jste se na školu dostali protekcí. Potud tedy bylo všechno v pořádku. Nechápal jsem ale, proč na Beátině psaní tolik záleží Královi, a jeho usilovný zájem o kurz _creative writing_ jsem si dost dobře neuměl vysvětlit. Nadbíhal by takhle i učiteli houslí? říkal jsem si.
@@ -37,7 +39,9 @@ Políbil jsem ji:
 
 „Ale _uvidíš_.“
 
-  
+</section>
+
+<section>
 
 Jakmile jsem stanul před brankou Královy vily, posuvná vrata se také tentokrát hlučně otevřela. Zůstal jsem stát.
 
@@ -91,7 +95,9 @@ Z terasy se vyklonil Král:
 
 Tak alespoň tyhle idioty mám snad z krku, pomyslel jsem si.
 
-  
+</section>
+
+<section>
 
 Trochu naivně jsem očekával, že můj nástup do služby bude mít ne snad přímo _protokolární_, ale alespoň jistý _oficiální_ ráz – ale nakonec se ono předpokládané _uvedení do funkce_ (dá-li se o něm v tomto případě vůbec mluvit) odehrálo poněkud chvatně a poněkud málo důstojně; Král se ve spěchu převlékal na tenis a veškeré instrukce mi uděloval na cestě mezi ložnicí a koupelnou.
 
@@ -123,7 +129,9 @@ Nemohl jsem se zbavit pocitu, že mu ten nedostatek času přišel vhod. Všechn
 
 „Ten je až v prosinci. V hale,“ vysvětlil mi. Samolibě se usmál: „Dneska hraju s Petrem Čermákem.“
 
-  
+</section>
+
+<section>
 
 _Aktivnost básnického slova nesmí být ovšem vykládána tak že by básnictví slovem vytvářelo skutečnost novou, svébytnou a umělou, jak se někdy z nedorozumění tvrdí. Skutečnost opravdová je jenom jedna._
 
@@ -295,13 +303,17 @@ Vztyčila se na loktech a obrátila ke mně _kamenný obličej_:
 
 Tak si to teda píšu.
 
-  
+</section>
+
+<section>
 
 _Z ničeho nic začala marodit a postonávat, chřadla a hynula a hubla a bledla, truchlila a vzdychala._
 
 — Karel Čapek, O princezně solimánské
 
-  
+</section>
+
+<section>
 
 Musím přiznat, že Beátin náhlý výbuch mne na dlouhé minuty ochromil: nejsa schopen nějakého souvislejšího smysluplného projevu, beze slova jsem očima bloumal přítmím pokoje.
 
@@ -333,7 +345,9 @@ Vůbec to nevyznělo tak, jak jsem chtěl.
 
 Už jsem raději neříkal nic.
 
-  
+</section>
+
+<section>
 
 V sedm padesát čtyři jsem se bez pozdravu zdvihl a sešel jsem dolů. Král přijel vzápětí – byl celý rudý a z jeho dechu bylo slabě cítit pivo. Manželka od něho odebírala propocené svršky.
 
@@ -385,8 +399,12 @@ Nepochopil.
 
 „Uvidíte, že se to poddá!“ ujistil mě.
 
-  
+</section>
+
+<section>
 
 Přednedávnem jsem v Lidových novinách narazil na rozhovor s hercem Národního divadla Borisem Rösnerem – na otázku, co považuje za svůj dosavadní největší úspěch, odpověděl: _Já za svůj největší životní úspěch považuji to, že mám zdravou, chytrou, pěknou osmnáctiletou dceru_.
 
 A ne snad?
+
+</section>

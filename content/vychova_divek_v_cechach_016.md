@@ -3,13 +3,17 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Po Stevovi a Jakubovi byl posledním Beátiným klukem Bůh. Zpočátku ovšem nebylo zcela jisté _který_.
 
 Nejprve se seznámila s několika smíchovskými _mormony_, ale na nich jí vadilo (tvrdila Agáta), že vyznávají mnohoženství a že jsou Američané. Později se dozvěděla o ekologické farmě stoupenců hnutí _Hare Kršna_ poblíž Benešova a několik dní koketovala s myšlenkou tam odjet, ale údajně ji odradilo, že celý den pracují na poli a ráno musí brzy vstávat. Jezdila také za jedním evangelickým farářem na Černý most, ale bylo to daleko, farář jí připadal samolibý a navíc ji v průchodu paneláku, kde bydlel, pokaždé obtěžovali nějací Romové (Agáta přirozeně říkala _cikáni_). Musel jsem se v duchu usmívat, neboť Beátino hledání Boha poněkud připomínalo naše někdejší shánění nábytku. Nakonec, dozvěděl jsem se, to u Beáty vyhráli zbraslavští jehovisté – byli nejblíž, měli nejlepší ceny a dodávali Boha přímo do domu.
 
-  
+</section>
+
+<section>
 
 Jak patrno, patřím zjevně k oné početné skupině ignorantů nepochybujících snad jen o tom, že je tu _něco_, co nás přesahuje, přičemž oním něčím nemusí být hned Bůh (páter Halík nás díky tomu ironicky nazývá _něcisté_). Mne osobně oslovil Bůh v životě jen jedenkrát, a to před výlohou obchodního domu Baťa na Václavském náměstí, kde mi prostřednictvím malého snědého Pákistánce v oranžovém tričku sdělil, že mne _opravdu miluje_ (v první chvíli jsem se ovšem domníval, že toto sdělení nějak souvisí s cenami vystavených polobotek). Navíc jsem právě v oné době, kdy jsem se od Agáty dovídal o Beátině konverzi, redigoval Kohoutův román _Sněžím_, a nedokázal jsem se už ubránit jisté averzi vůči ženám, které se v neděli ráno bolestně rozhodují, mají-li se jít modlit, nebo mají-li jít raději bruslit. Opravdu na sebe nechci obracet hněv tiskového mluvčího příslušné biskupské rady, ne-li dokonce papežské rady pro dialog s nevěřícími, ale mám-li napsat _pravdu_, můj nejintenzivnější pocit z tohoto posledního Beátina období nejlépe vyjadřuje rouhavá parafráze _Co člověk spojil, bůh nerozděluj_.
 
@@ -19,7 +23,9 @@ Rychlé střídání kapitol za účelem zvýšení napětí.
 
 Už se to blíží. Mám za sebou zhruba pět měsíců práce. První tři měsíce jsem po večerech a o víkendech psal první verzi, v březnu a v dubnu v jednom zátahu druhou. Už se nemůžu dočkat, až o pár stránek dál Beátu pohřbím a dám si konečně _voraz_.
 
-  
+</section>
+
+<section>
 
 Druhý a zároveň poslední dopis, který mi Král kdy poslal, přišel začátkem července (původně jsem přemýšlel, jestli bych pro větší účinek neměl doručení jeho dopisu antedatovat, abych přesněji naplnil ono pohádkové _když se rok s rokem sešel_, ale později mi to přišlo přece jen příliš svévolné, a tak jsem od tohoto nápadu zase upustil). Tón dopisu byl _vlídný a nenucený_ – Král se omlouval, že se _po tom všem_, _co jsme spolu loni prožili_, již dříve neozval. Měl prý ale vážné starosti s podnikáním. Proč se někdy _nestavím_? Dozvěděl se, že v červenci přebývám na Zbraslavi, a má pocit, že _Beáta by o to docela stála_. Už zase _mimochodem_ píše. Napsala dokonce něco _dlouhého_, ale když jsem teď _tak slavný_, stydí se mi to dát přečíst. Co takhle zopakovat ten _úspěšný_loňský kurz? Je to jen takový _momentální nápad_, ale třeba by to stálo za úvahu. Nechci se někdy stavit? Co rovnou tenhle pátek?
 
@@ -63,7 +69,9 @@ Přátelsky jsem ji třepl po vlasech.
 
 Ale nikoli _bezpředmětně_.
 
-  
+</section>
+
+<section>
 
 Král byl na tenise. Králová vypadala ztrápeně. Kafe mi neudělá – chce mi ho prý udělat ta _jeptiška nahoře_.
 
@@ -119,7 +127,9 @@ Konejšivě mě pohladila po ruce.
 
 Vzdal jsem to.
 
-  
+</section>
+
+<section>
 
 Strávili jsme pak velice hezký, křesťanský podvečer. Mluvili jsme o Agátě, o škole a o psaní a vydávání knih.
 
@@ -153,7 +163,9 @@ Poslední pohled, který mi za svého života věnovala, byl tudíž bolestně d
 
 Dodnes si ho dokážu vybavit velice _plasticky_.
 
-  
+</section>
+
+<section>
 
 _Podivný výsledek vzrůstu historického vědomí je ten,  
 že lidé pokládají vysvětlení za nezbytné pro přežití._
@@ -168,21 +180,29 @@ Jak jsem se polekal (vypravování):
 
 Když jsme se vraceli z Dánska, tak jsme se vraceli hrozně dlouho, protože jsme se vraceli přes Německo a v Německu furt opravovali silnice, po kterých jsme se vraceli. Přijeli jsme až pozdě v noci a něco bylo ve schránce, tak jsem šel pro klíček, a když jsem tu schránku otevřel, tak tam bylo, že moje kamarádka Beáta je mrtvá. Krev se mi úplně zastavila v žilách a samým leknutím jsem ani nedýchal.
 
-  
+</section>
+
+<section>
 
 Přes ujištění křesťanských odborníků, že _osobní přátelství s Bohem pomůže přemoci těžkou depresi_, Beáta svou depresi nepřemohla. Věděla sice – pokud příručku opravdu četla – že _sebevražda není řešení_, ale přesto to udělala. Nezkusila si jít koupit něco pro radost jako Melánie, nenaplánovala si nějaké kratší výlety jako Debbie, neuvařila si nic podle svého oblíbeného receptu jako Daphne, a dokonce ani neluštila křížovky, jaké vycházejí v časopise _Probuďte se!_ – ne, ona si jako Vivienne neuměla představit, že její deprese jednou pomine, a tak si sedla do svého černého golfu a v rychlosti kolem sto osmdesáti kilometrů za hodinu v něm najela do betonového přemostění strakonické výpadovky.
 
 A už se nikdy neprobudila.
 
-  
+</section>
+
+<section>
 
 A celé město bylo potažené černým flórem.
 
-  
+</section>
+
+<section>
 
 A její srdce, proměněné v popel, nabral do dlaně školník František Nedělníček a rozhodil je po větru na lukách urnového háje, který je chloubou zbraslavských občanů.
 
-  
+</section>
+
+<section>
 
 _Píšu román, abych zachránila živé, ale také abych vyvedla z nepaměti minulost, své mrtvé, abych z ní vyvedla sama sebe. Dokud píšu, zůstává jiskřička naděje na cestu zpátky, na návrat k životu a vědomí, k vůli, k lidské tváři._
 
@@ -207,3 +227,5 @@ Láskyplně jsem do ní strčil.
 Ztratila rovnováhu a vlasy se jí vysmekly z prstů.
 
 „Zklidni hormón!“ zamračila se.
+
+</section>

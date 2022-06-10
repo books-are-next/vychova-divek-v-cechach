@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Ještě toho večera jsem se snažil celou situaci nějak _reflektovat_, ale nevzpomínám si, že bych se byl dobral něčeho podstatného.
@@ -47,11 +49,15 @@ Naštěstí byl hlavním předmětem Světlanina ranního zájmu přece jen onen
 
 „Protože hudba,“ pravil líbezně Jaromír, „je jazyk srdce.“
 
-  
+</section>
+
+<section>
 
 Nebylo mi bohužel přáno vyslechnout své kolegy až do konce, neboť jsem byl krátce po Světlanině příchodu hospodářkou školy povolán k řediteli – dovedu si představit vaše případné námitky, ale přece jsem nikdy netvrdil, že _každý_ dialog, který čtete, je notářsky ověřeným magnetofonovým záznamem. _Autor stylizuje své příběhy tak, aby čtenář vytušil, že jejich hrdinou je sám spisovatel, že jsou to přesně popsané jeho konflikty, ale zároveň nás znejisťuje „vymýšlením“, fiktivností, zřejmou nadsázkou, aby toto ztotožnění nebylo možné bez rizika omylu potvrdit._ (Milan Jungmann o Rudolfu Slobodovi)
 
-  
+</section>
+
+<section>
 
 Ředitel se tentokrát na ryby zřejmě nechystal, neboť měl na sobě parádní _vycházkovou_ uniformu desátníka J. Q. Adamse.
 
@@ -101,21 +107,29 @@ Podle očekávání mne vyhodil.
 
 Z „ředitelny“.
 
-  
+</section>
+
+<section>
 
 Peníze mi sice díky Královi nescházely, ale jako obvykle šlo o princip. Odpoledne jsem proto sepsal poněkud emotivně zabarvenou stížnost _(… rozdělování osobních odměn a příplatků se v rukou ředitele Naskočila stává stále častěji nástrojem, s jehož pomocí si vyřizuje spory s oponenty…_), kterou jsem doporučeně zaslal PaedDr. Jiřímu Najmonovi, řediteli Školského úřadu Praha 5, Na Valentince 5. Z jeho odpovědi vyjímám v doslovném znění:
 
-  
+</section>
+
+<section>
 
 __Při jednání s panem ředitelem Naskočilem ohledně Vaší stížnosti mi bylo sděleno následovné. Při stanovování odměn a osobních příplatků, které jsou nenárokové, stanovil pan ředitel kritéria, kterými se řídil. S nimi byl seznámen ped. sbor. Je v plné kompetenci pana ředitele, aby rozhodl a ohodnotil pedagogické_ _pracovníky._ _ŠÚ těžko může od stolu rozdělovat nenárokové finanční prostředky, když nezná práci jednotlivých učitelů. Dle sdělení pana ředitele jste zřejmě nesplňoval ona stanovená kritéria.__
 
 _S pozdravem._
 
-  
+</section>
+
+<section>
 
 _Zdařilá oslava_ (Zbraslavské noviny 7/1992, str. 2)
 
-  
+</section>
+
+<section>
 
 _Padesáté výročí tragické smrti velkého českého spisovatele Vladislava Vančury, popraveného před padesáti lety německým gestapem, si na vzpomínkové slavnosti připomněli také žáci Základní školy Vladislava Vančury. Ředitel školy pan Naskočil ve svém projevu vyzdvihl rozhodující význam Američanů při osvobození naší vlasti sovětskou armádou a o kulturní program se jako vždy postaral školní pěvecký sbor pod vedením paní učitelky Chvátalové-Sukové. Největší ohlas měla už tradičně oblíbená polka zbraslavského skladatele Jaromíra Vejvody Škoda lásky, kterou členové pěveckého sboru zazpívali ve světoznámé anglické verzi Roll on the barrels. Skutečným vrcholem zdařilé oslavy bylo však závěrečné vystoupení členů místní pobočky Military Car Clubu, kterého se s americkým armádním vozem značky Jeep zúčastnil také pan ředitel Naskočil._
 
@@ -135,7 +149,9 @@ Domů jsem šel společně s Jaromírem.
 
 „Vůbec ne,“ řekl Jaromír. „To byla _jedničkářka_.“
 
-  
+</section>
+
+<section>
 
 U Belvederu se odpojil. Pokračoval jsem k _horní_ škole, abych vyzvedl dceru. Mohla mimochodem chodit případně i do školy dolní, kde jsem učil já, ale chtěli jsme ji se ženou alespoň na ony první čtyři roky ušetřit nelehkého údělu _učitelského dítěte_. (Dnes – psáno v lednu 1994 – chodí už do čtvrté třídy a od září by měla pokračovat _dole_, ale přestože tam už neučím, bude muset _kvůli tatínkovu psaní_ dojíždět, chuděrka, až do Chuchle.)
 
@@ -201,14 +217,18 @@ Zhrozil jsem se:
 
 „A tohle mně právě _strašně_ vadí,“ řekla. Pohotovost, s jakou přešla z obrany do útoku, mi znovu připomněla její matku. „Že si ze mě pořád děláš jenom srandu…“
 
-  
+</section>
+
+<section>
 
 _Jsem blázen do Michaela Jacksona a chtěla bych si dopisovat s černochem, který je mu podobný (i nemusí). Je mi 12 let._
 
 — Michaela Lipajevová, Sartoriova 29, 169 00 Praha 6.  
 BRAVO
 
-  
+</section>
+
+<section>
 
 Než jsem odešel k Beátě, probral jsem své staré výpisky a poznámky a pár věcí jsem si vzal s sebou.
 
@@ -232,11 +252,15 @@ Pokoj ani Beátina poloha nedoznaly oproti včerejšku nijakých změn, jen panu
 
 Lekci jsem zahájil _Radami pro nastávající spisovatele_ A. P. Čechova:
 
-  
+</section>
+
+<section>
 
 _„Státi se spisovatelem je velmi lehko. Není mrzáka, který by nenašel sobě rovného, a není nesmyslu, který by nenašel vhodného čtenáře,“ _četl jsem._ „A proto neklesej na mysli… Polož před sebe papír, vezmi do ruky pero, a podráždiv zaujatou mysl, rychle piš. Piš, o čem chceš: o suchých švestkách, o počasí, o hodinové ručičce, loňském sněhu… Když jsi napsal, vezmi rukopis do ruky, a cítě v žilách posvátné chvění, jdi do redakce. Potom lež doma na divaně, plivej na strop a kochej se sny…“_
 
-  
+</section>
+
+<section>
 
 Odmlčel jsem se.
 
@@ -256,7 +280,9 @@ Najednou se vedle barelu objevil její bledý, strhaný obličej.
 
 Zbývajících sto patnáct minut už neřekla nic.
 
-  
+</section>
+
+<section>
 
 Pokud jde o mne, normálně (dá-li se to tak nazvat) jsem za _jejími zády_ pokračoval v přednášce podle původního plánu:
 
@@ -264,7 +290,9 @@ Seznámil jsem ji se svým asi šest let starým, nicméně stále _mimořádně
 
 Když jsem si dneska při přepisování výše uvedených řádek znovu vybavil svůj tehdejší osamělý monolog, napadl mě ještě jiný příměr: vždyť je to vlastně to samé jako _psaní_ – to přece také posílám věty kamsi do tmy… (Tím si rozhodně nestěžuji; je to koneckonců pořád lepší, než mít při psaní před sebou nedej bože obličej nějakého Jaromíra Slomka.)
 
-  
+</section>
+
+<section>
 
 V rovných osm jsem složil poznámky a sešel dolů. Král vyšel ze své pracovny. Měl pytlíky pod očima.
 
@@ -282,7 +310,9 @@ Pokynul mi směrem do pracovny.
 
 Paní Králová nás provázela starostlivým pohledem.
 
-  
+</section>
+
+<section>
 
 Bezútěšnost půlmetrové hromady lejster na dubovém psacím stole nezmírnila ani ta nádherná zlatá lampa. Král přistoupil k baru a známá vůně kožených křesel se smísila s vůní dvanáctileté skotské _Glen Deveron_. Nemínil jsem se ale nechat ukolébat:
 
@@ -371,3 +401,5 @@ Zamyslel jsem se.
 „Víceméně ne,“ připustil jsem.
 
 „No tak vidíte,“ řekl triumfálně. „Ukažte jí zkrátka, jak to děláte…“
+
+</section>

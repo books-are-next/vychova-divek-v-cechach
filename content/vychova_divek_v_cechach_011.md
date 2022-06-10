@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 „Tak co?“ pravila o chvíli později, když se rozhlédla, „splňuje tohle tvý měšťácký představy o _dívčím pokojíčku_?“
@@ -29,7 +31,9 @@ Předala mi pečlivě zabalenou knížku.
 
 Začínala mě příjemně překvapovat.
 
-  
+</section>
+
+<section>
 
 Chovala se nebývale přátelsky – přinutila se dokonce i k _měšťácké_ otázce, jak jsem se měl. Vyprávěl jsem jí trochu o Poreči, o Pule a o Umagu. Byla plná dobré vůle a očividně se nechtěla hádat, ale když jsem se zmínil o barevném vláčku spojujícím Umag s letoviskem Katoro, nevydržela to:
 
@@ -83,7 +87,9 @@ Najednou se nade mě naklonila:
 
 „Ale ty _žárlíš…_“ řekla s nehraným údivem.
 
-  
+</section>
+
+<section>
 
 Odvedl jsem řeč jinam. Bavili jsme se nejprve o nábytku a o bydlení vůbec (vzpomínám si, že jsem plácal cosi o tom, že _každý interiér je otisk lidské duše_) – a potom jsem chtěl vědět, jak pokračuje Beátino psaní. Odpověděla vyhýbavě.
 
@@ -131,7 +137,9 @@ Na Beátinu povídku jsem byl upřímně zvědavý. Přečetl jsem ji doma tého
 
 Povídku přepisuji doslovně, jen s několika drobnými opravami ve větné interpunkci:
 
-  
+</section>
+
+<section>
 
 _TÁTA A JÁ_
 
@@ -153,7 +161,9 @@ Ráno se prý byla proběhnout a _shodou okolností_ se zastavila u výlohy m�
 
 „Na co? K čemu?“ nesouhlasila. „Bude tu bydlet architekt – nebo já?“
 
-  
+</section>
+
+<section>
 
 Před obchodním domem IKEA jsme byli ještě před otevřením. Během dopoledne jsme pak podle Králem vypracovaného seznamu, který jsem v autě po způsobu závodních jezdců držel na kolenou jako traťový itinerář, navštívili (tedy pokud mě paměť neklame) další tři obchodní domy, dvě starožitnictví, prodejnu dánského nábytku Scaneco, několik specializovaných prodejen koberců, několik prodejen proutěného, bambusového a ratanového nábytku, obchody firem _Kratochvíl_ a _Triant_ a výstavní halu firmy _Europa Möbel_ (napadá mě, zda bych neměl zdůraznit, že ani jedna z firem, které v knize zmiňuji, se na jejím vydání nepodílela žádným sponzorským příspěvkem). V rozmezí oněch zhruba čtyř hodin jsme zakoupili třídveřový šatník a tři regály na knihy z černého jasanu, sadu černých mobilních stolků, dvě trubková křesla se starorůžovým _textilním sedákem_ z roku 1931, starorůžový vlněný kobereček _vysoký vlas_ a černý koš na papír značky _Trend_. V prodejně _Díla_ se nám podařilo sehnat obtížně popsatelný černý skleněný objekt, jenž mne od první chvíle odpuzoval svou nápadnou podobností se zrentgenovanou veverkou, zatímco Beátu naopak přitahoval _svou neuchopitelností a schopností mnohonásobně rozkládat světlo takzvané pravdy_.
 
@@ -165,11 +175,15 @@ Beáta dotčeně přidala plyn.
 
 „Rád bych si vzal to zubařské křeslo,“ řekl jsem spěšně.
 
-  
+</section>
+
+<section>
 
 Přes občasné (ale postupem doby naštěstí stále formálnější) manželčiny protesty stojí dodnes v mé pracovně, zaaretované v poloze, jež přímo vybízí k meditacím. Původní světlá hygienická koženka byla ovšem již značně zašlá a na několika místech po­trhaná, a proto jsem požádal svou babičku-kožešnici, zda by mi na ně neušila nějaký návlek; díky tomu, že použila různobarevné zbytky kůží, ztratilo křeslo svůj strohý ráz, takže některé návštěvy často ani nedokáží uhádnout jeho někdejší drastický účel. (Dělám ostatně totéž: šiju veselé přehozy, abych jimi zakryl syrovou skutečnost bolesti.)
 
-  
+</section>
+
+<section>
 
 Po návratu z Prahy vykonala Beáta nejprve bleskovou inspekci svého pokoje. Potom šla rovnou k telefonu, aby otci vyjádřila svůj údiv nad zarážející skutečností, že ačkoli je již hodina po poledni, její apartmá dosud _nemá_ požadovaná střešní okna – Král zřejmě přislíbil okamžitou nápravu, neboť na konci hovoru do mluvítka zcela nedvojsmyslně mlaskla.
 
@@ -319,7 +333,9 @@ Zahrnul mě sérií nadávek.
 
 _Opravdu mne těšilo._
 
-  
+</section>
+
+<section>
 
 Na parkovišti na Karlově náměstí – stále bez lustru, ale již obtěžkáni tuctem tapetových rolí – jsme potkali rodinného přítele a mého spolužáka z gymnázia, inženýra Davida Šulce. Představil jsem ho Beátě s jistým malým zadostiučiněním, neboť _jeho_ nohy v kožených sandálech byly čisté. Beátu jsem označil za svou _kamarádku_.
 
@@ -341,7 +357,9 @@ Inženýr Šulc posmutněle pokýval hlavou, předsunuje přitom bradu maličko 
 
 „Možná,“ řekl přemítavě, „jsem měl taky psát.“
 
-  
+</section>
+
+<section>
 
 A do třetice jsme na Zbraslavi, když jsme na Beátino přání _jen tak zkusmo_ vystoupili před prodejnou s nábytkem, narazili na kolegyni Tauferovou.
 
@@ -380,3 +398,5 @@ Král v ponožkách přešel k oběma svým dcerám, aby je políbil.
 Mne potom přes mé chabé protesty odtáhl dolů do pracovny, kde mi věnoval jedno mužné objetí, jednu sklenici skotské whisky _Glen Deveron_ a deset tisíc korun.
 
 „Věděl jsem, že to dokážeš,“ řekl pohnutě.
+
+</section>

@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Když jsme se po večeři vrátili s Beátou zpátky nahoru, byla venku už tma. Díky tomu jsme zjistili, že jednou z výhod střešních oken je také možnost pozorovat noční oblohu přímo z pokoje. Usedli jsme tedy do křesel z roku 1931 a dívali se na hvězdy staré miliony let.
@@ -105,7 +107,9 @@ Dneska přinesl Ota Karlas výtvarný návrh obálky edice _Novinky české pró
 
 Obdařil mne svým mírným úsměvem.
 
-  
+</section>
+
+<section>
 
 Probudil jsem se do nádherného slunečného rána. Nasnídal jsem se, vzal jsem skládací metr a s velmi formálním postesknutím nad _tímto způsobem léta_ jsem radostně vyrazil z domu.
 
@@ -159,7 +163,9 @@ Měl jsem pocit, že jí rozumím.
 
 Dokonce si sundala brýle.
 
-  
+</section>
+
+<section>
 
 Svlékání do plavek.
 
@@ -167,7 +173,9 @@ Jak pravdivě a přesvědčivě zobrazit tělesnou touhu – a vyhnout se př
 
 Jak to ten Vaculík dělá?
 
-  
+</section>
+
+<section>
 
 Po deštích minulých dní vypadala tráva na Ždáni velmi svěže a také voda nebyla – jak zde často bývá – mdle teplá, ale měla příjemně chladnou jiskru. Dopoledne probíhalo za poměrně pravidelného střídání dvou period. Když jsme šli plavat všichni tři najednou, neobešlo se to díky Agátě bez známého výskání, stříkání a podvodního dovádění, při kterém voda doslova _vřela_ (Beáta se držela stranou, ale mne Agáta svýma hubenýma nohama obemykala čím dál nestoudněji, až jsem – s předstíraným mrzoutstvím starého _leoparda_ – musel svou těžkou prackou zatlačit její hlavičku pod hladinu na tak dlouho, dokud se s uraženým kuckáním a slzami v očích nezačala brodit zpátky ke břehu). Pokud se však Agátě do vody nechtělo nebo pokud právě odběhla kamsi za kamarádkou, zrcadlo hladiny, které jsme s Beátou čeřili v úzkostlivě rovnoběžných drahách, se sotva zavlnilo.
 
@@ -201,7 +209,9 @@ Snažil jsem se nicméně odpovídat pokud možno pravdivě, až jsem se posléz
 
 „Já vím,“ řekla smutně.
 
-  
+</section>
+
+<section>
 
 Beátiny otázky… Čím jsme si byli bližší, tím jich bylo víc. Jejich zmapování by si vyžádalo obsáhlý a pečlivě utříděný tematický rejstřík, jejich analýza zkušeného psychiatra. Ptala se na všechno od Apollinaira, biedermeier, celibát a Drtikola až po xenofobii, Yellowstonský park, zenbuddhismus a žlutou zimnici, přičemž skutečnost, že na řadu těchto otázek neznám odpověď, pro ni byla zdrojem špatně skrývaného zklamání.
 
@@ -231,11 +241,15 @@ Nepřipadá mi, že _smutní_ lidé jsou pravdivější?
 
 Jdu zítra _vítat_?
 
-  
+</section>
+
+<section>
 
 Takhle. Bez přechodu.
 
-  
+</section>
+
+<section>
 
 Obědvali jsme až odpoledne ve městě. Sehnali jsme lustr. Odtáhli nám auto. Beáta se smála. Tvrdila, že dva roky nejela metrem. Král se taky smál, někam zavolal – a za dvě hodiny ho přivezli. K obdivnému potlesku na Královu adresu jsem se sice nepřipojil, ale na druhé straně jsem tímto bezprostředním důkazem o existenci korupce v naší mladé demokracii nebyl ani dostatečně pohoršen. Má občanská ostražitost klesala.
 
@@ -255,11 +269,15 @@ Když jsem v zástupu cizích opálených tváří zahlédl svou ženu, s jist
 
 Na jejím snědém krku zablýskl řetízek.
 
-  
+</section>
+
+<section>
 
 Během jedné noci asi měsíc po nástupu do vojenské prezenční služby jsem u malého plechového stolku pomocníka dozorčího útvaru Bratislava-Vajnory napsal o svém vztahu k dceři _báseň_. Dovolím si ji zde ocitovat, přestože už pouhá skutečnost, že jsem navzdory dávnému předsevzetí opustil pevnou půdu prózy, abych se vystřelil do kosmu poezie, je dostatečně výmluvným důkazem naprosté citové nepříčetnosti, v níž jsem se tehdy nalézal:
 
-  
+</section>
+
+<section>
 
 Moje dcera  
 věčně otravuje  
@@ -268,7 +286,9 @@ takže se dusím
 když na krku tu její smyčku  
 nemám…
 
-  
+</section>
+
+<section>
 
 Snad radši zpátky k próze:
 
@@ -302,7 +322,9 @@ Stisk okamžitě zesílil.
 
 Její oči zůstaly zavřené, ještě když jsem ji za doprovodu již zcela ne­dvojsmyslných obscénních poznámek toho idiota vlekl z krámu na ulici.
 
-  
+</section>
+
+<section>
 
 Po třech koňacích v baru restaurace Kotva je v oddělení nábytku o patro níž naprosto spontánně, ale s jakousi vážnou obřadností vyzkoušela úplně všechny: barevné dvojválendy, tradiční _bílé ložnice_, moderní kovové postele s mosaznými šprušlemi, rozkládací pohovky i _kruhová manželská lůžka s potahem americký mikroplyš_.
 
@@ -350,7 +372,9 @@ Dlouze mne políbila, jako kdybych ji opravdu platil.
 
 „Nebo oblek. Teď hned.“
 
-  
+</section>
+
+<section>
 
 Co naplat, bylo tomu tak – ani rozkvetlá jarní louka, ani vypůjčená chata s hořícím krbem, ale těsná zkušební kabina oddělení pánské módy jako v tom nejhorším pornofilmu.
 
@@ -366,7 +390,9 @@ A potom jsem, milá babičko, sešlapal kalhoty na zem a Beáta si nacpala kal
 
 „Tak jak pánovi je?“
 
-  
+</section>
+
+<section>
 
 Žena mi oblek pochválila – pravila, že jsem udělal dobře, když jsem si ho koupil.
 
@@ -374,7 +400,9 @@ Prý už jsem nějaký takový _dávno potřeboval_.
 
 Mimochodem: měl jsem ho na sobě na hradní recepci u příležitosti oslav vzniku republiky, na předvánočním setkání umělců s exministrem kultury, na nedávné spisovatelské večeři u amerického velvyslance a bohužel i na onom slavnostním večeru k zahájení Mezinárodního roku rodiny.
 
-  
+</section>
+
+<section>
 
 _… uvádět žáka ve vztah ke světu, probouzet a rozvíjet jeho tvořivou schopnost styku se světem._
 
@@ -404,18 +432,24 @@ O Updikově románu _Chceš si mě vzít?_ jsem přestal říkat _banální_, _
 
 Kytarové odrhovačky chatařů o víkendu v Sázavě mi vháněly slzy do očí:
 
-  
+</section>
+
+<section>
 
 _Pramínek vlasů ti ustřihnu potají  
 já blázen pod polštář chci si ho dát…_
 
-  
+</section>
+
+<section>
 
 Panebože! vzlykal jsem.
 
 V životě jsem neslyšel nic pravdivějšího.
 
-  
+</section>
+
+<section>
 
 Doma to bylo opravdu _strašné_. Čas strávený v oněch prvních dnech s rodinou je v mé paměti takřka románově obestřen _mlhavým oparem_. Vím jen, že jsem usilovně podnikal jakési prázdninové výlety (vzpomínám si například, že jsme byli na Konopišti, ale nejsem schopen si vybavit cokoli bližšího – měli zavřeno?). Díky bohu jim nic nedocházelo – duchem nepřítomný jsem ostatně býval občas i dříve.
 
@@ -425,13 +459,17 @@ Ono nové tajemství však prostupovalo celým mým tělem a naplňovalo je tak
 
 Navzdory všem těmto opatřením jsem se občas ocital v nepředvídatelných situacích, kdy se prozrazení zdálo být zcela neodvratné. Už jste se někdy, pánové, na návštěvě u tchyně bezmyšlenkovitě vysmrkali – a ucítili z kapesníku nezaměnitelnou vůni lůna své milenky?
 
-  
+</section>
+
+<section>
 
 Naštěstí alespoň pro koncepty svých vlastních milostných dopisů a (věřte nebo ne) také _básní_ jsem záhy přišel na naprosto spolehlivý úkryt: papírové desky, do nichž jsem je postupně zakládal, jsem nadepsal velkými tiskacími písmeny MILOSTNÉ DOPISY A BÁSNĚ – a zastrčil jsem je do hromady poznámek k chystanému románu.
 
 V žádném trezoru nemohly být ve větším bezpečí.
 
-  
+</section>
+
+<section>
 
 Pokud někdo cosi tušil, musel to být pes, jehož jsem nyní venčil nezvykle často. Jakmile jsme se dostali z dohledu oken, smýkal jsem jím k telefonní budce.
 
@@ -445,7 +483,9 @@ Když jsem se vracíval večer od Beáty, potěšeně mi očichával ruce. Vrtě
 
 Včera večer mne ve vaně napadl nový výraz do slovníku lásky v počítačovém věku: _nádherně nenaformátované dlaně_.
 
-  
+</section>
+
+<section>
 
 Večery v Beátině podkroví nestačily (tím spíš, že Agátiny možné vpády byly permanentním nebezpečím a že paní Králová se svou podezíravostí začínala nebezpečně podobat prodavačkám z Kotvy).
 
@@ -461,11 +501,15 @@ Přijížděla v oblečení, v jakém ji zastihl můj telefonát – v župa
 
 Jestli jsem onoho léta cítil k někomu skutečně upřímnou nenávist, byli to houbaři.
 
-  
+</section>
+
+<section>
 
 Takový Ed McBain, jehož nyní v našem nakladatelství tak hojně vydáváme, by nejspíš napsal: _Ve stejném autě a na stejné silnici, kudy onoho léta jezdívala pro lásku, si o rok později – jen ještě o něco rychleji – dojela pro smrt._
 
-  
+</section>
+
+<section>
 
 Mrtvé milenky cit.
 
@@ -573,7 +617,9 @@ Najednou!
 
 Najednou už učitelé nesouloží.
 
-  
+</section>
+
+<section>
 
 Cestou do podkroví ve mně rychle rostl vztek. Vysaje člověka a jednoduše ho vyplivne! A odbory pochopitelně nic!
 
@@ -583,7 +629,9 @@ Zatímco jsem to Beátě vzrušeně vyprávěl, postupně se svlékala.
 
 To nebylo milování – to byla _sociální bouře_.
 
-  
+</section>
+
+<section>
 
 „Co budeme dělat?“ řekla potom. „Kde se budem scházet?“
 
@@ -610,3 +658,5 @@ Chtěl jsem být s ní.
 A po nás potopa.
 
 „Hele,“ zněla ta klíčová věta, „tak pojď učit k nám na základku…“
+
+</section>
