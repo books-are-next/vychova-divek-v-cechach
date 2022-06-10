@@ -3,19 +3,25 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Na víkend u rodičů v Sázavě jsem se upřímně těšil, neboť jsem si víc než kdy jindy potřeboval odpočinout.
 
 Pokud jde o počasí, splnily oba dny mé očekávání beze zbytku, už od samého rána vyhřívalo dlaždice na terase i říční hladinu zlaté _slunce_, soused spokojeně obracel rychle schnoucí _seno_ a dcera mi co chvíli nosila voňavé rudé _jahody_. Jakmile to jen trošku šlo, snažil jsem se dle svého předsevzetí číst, plavat, věnovat se rodině a nemyslet pořád na Beátu Královou.
 
-  
+</section>
+
+<section>
 
 Pondělí bylo předposledním dnem školního roku a všeobecná anarchie, která na škole zavládla ještě před prvním zazvoněním, předčila i ta nejpesimističtější očekávání. O přestávkách nebylo v prostorách školy slyšet vlastního slova, a dokonce i během jednotlivých hodin hladina decibelů klesala jen velmi zvolna. Vzduchem létaly nejen obvyklé křídy, houby a přezůvky, ale i nové učebnice a stále populárnější bouchací kuličky. Z okna jedné ze šestých tříd v druhém patře vypadl na ulici Vladimír Havránek, avšak vyvázl bez sebemenšího zranění, zatímco ukamenování několika žáků tradičně znepřátelené zvláštní školy zabránil jedině včasný zákrok příslušníků městské policie (chápu, že věrohodnost takto nakumulovaných událostí může být problémem, a to tím spíše, že Havránkův pád z okna vedení školy později popřelo a že výstřižek se zprávou Zbraslavských novin, potvrzující napadení žáků zvláštní školy, nemohu ani zaboha nalézt).
 
 Ředitel školy okamžitě poté, co dokončil tradiční ranní navazování háčků, podrobil vzniklou situaci, blížící se již v mnohém stavu obecného ohrožení, důkladné analýze, jejíž závěry nejlépe shrnuje jeho vlastní univerzální průpovídka _no problem_. Naopak ostatní učitelské autority, opírající se po celý rok převážně o pohrůžky špatnými známkami, se v nastalé situaci zhroutily, polykaly prášky a kabinety opouštěly jen v nejnutnějších případech – takže tím, kdo ono pondělní dopoledne strávil relativně nejklidněji, byl nakonec paradoxně kolega Stříbrný, jehož chlapci z deváté třídy již krátce po osmé uvěznili v poněkud stísněném prostoru _švédské bedny_.
 
-  
+</section>
+
+<section>
 
 _Podstata učitelského povolání není ve znalostech, nýbrž v osobnosti, v tom nejosobnějším, lidsky nejdůvěrnějším, v tom, co těsně spojuje člověka s člověkem, třebas beze slov a všeho vědění: v umění styku je skryto tajemství výchovného i naučného úspěchu._
 
@@ -75,7 +81,9 @@ Zdvihla ke mně oči:
 
 „A co tvoje žena?“ řekla s upřímnou obavou.
 
-  
+</section>
+
+<section>
 
 Beáta na vypovězenou válku bohužel nezapomněla (okolnost, že se jedná o naše poslední sezení před odjezdem na dovolenou, v ní na rozdíl od její mladší sestry nevyvolávala žádný _rozlučkový_ sentiment). Její základní válečnou strategií byla _důslednost_. Zarytě mlčela, nereagovala opravdu na nic, neuniklo jí ani jediné pousmání a její _nevidoucí_ pohled procházel skrze mne s dovedností číšníků Prahy 1. Její nejúčinnější zbraní se ovšem jednoznačně stal dálkový ovladač hi-fi věže Panasonic: ležela bez hnutí na břiše, ovladač skrytý pod tělem, a nechala místnost naplnit těžkým, dusivým tichem – aby ji pak v jediném zlomku vteřiny nepostřehnutelným přesunutím tlaku na příslušný prst vyhodila do povětří. Tyto okamžité přechody z takřka absolutního hrobového ticha do ohlušující _infernální elektroniky_ hudební skupiny _Vanessa_ měly na můj organismus podivuhodně rozporuplný účinek. Ve shodě s tvrzením časopisu Vokno jsem sice na jedné straně cítil, že moje _rozeznělé_ tělo mi _namísto pouhé konzumace hudby umožňuje stát se její nedílnou součástí a že jsem tudíž elektronicky propojen se všemi obyvateli globální vesnice jménem Země_, ale na druhé straně mi na horním rtu vyskočil opar, nemluvě o tom, že závrať, již jsem při poslechu zakoušel, nebyla úplně nepodobná pocitům, které jsem prožíval, když mi před lety na pionýrském táboře pronikl škvor do středního ucha.
 
@@ -109,11 +117,15 @@ Doubek se mi systematicky vyhýbal očima.
 
 Projev starosty Šopka byl _odměněn potleskem_.
 
-  
+</section>
+
+<section>
 
 Ano, já vím, další veselá scéna. Opravdu se za každou musím omlouvat?
 
-  
+</section>
+
+<section>
 
 _Velmi dlouho se pokoušíme prosazovat umělecké zákony shora dolů, a výsledky jsou deprimující. Mohlo by nám prospět – i čistě umělecky – kdybychom zařadili zpáteční rychlost a pokusili se o sprostou popularitu._
 
@@ -165,7 +177,9 @@ Přibližně o třicet hodin později jsme už se ženou a dcerou ujížděli 
 
 Jeli jsme přes noc. Navzdory únavě z posledních dní se mi na rozdíl od většiny ostatních vůbec nepodařilo usnout (dokonce ani s pomocí nafukovacího cestovního polštářku Hajaja, jímž mne na cestu vybavila babička-turistka), a tak jsem pouze se známou zjitřenou pozorností bdících pozoroval červená koncová světla před námi jedoucích aut a posléze i stále mohutnější skalnatý masiv Alp, strmící nad osvětlenou dálnicí. Na Máchu jsem si pokud vím nevzpomněl. Přemýšlel jsem o všech těch dívkách, jimiž jsem byl tak znenadání obklopen, a čas od času jsem své spící dceři zdvihl spadlou přikrývku.
 
-  
+</section>
+
+<section>
 
 Rodina českého učitele na molu v Poreči.
 
@@ -175,7 +189,9 @@ Rodina českého učitele na molu v Poreči.
 
 Vypadalo to, že moři je to úplně jedno.
 
-  
+</section>
+
+<section>
 
 _Jeden člověk řekl vesmíru:  
 Pane, já existuji.  
@@ -183,17 +199,23 @@ Jenže, odpověděl vesmír, tato skutečnost
 ve mně neprobudila  
 pocit odpovědnosti._
 
-  
+</section>
+
+<section>
 
 (Nevím už, kdo tu báseň napsal, ale podobnou zkušenost mám s obvodním školským úřadem pro Prahu 5.)
 
-  
+</section>
+
+<section>
 
 Vlny a sůl ve _smějících se očích_. Sůl v ručnících. Nahé dívky (jež se ani v nejmenším netvářily nenávistně). Šálivá vůně opalovacích krémů. Nahé ženy. Nafukovací matrace. Rozhraní světla a stínu na kraji piniového háje. Knihy, káva a koňak Cézar po poledni na terase _bungalovu_. Ještěrky a cikády. Teplé noci. _Škampi_ a bílé víno _Teran_ ve vinárně osvětlené barevnými lampiony. Námořnická pruhovaná trička pod saky číšníků.
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 _Zkratka jakožto náhrada za nezajímavé úseky reality._
 
@@ -223,7 +245,9 @@ Konečně jsem se dozvěděl, za co jako manžel stojím: za dvě stě padesát 
 
 Nepřipadalo mi to špatné.
 
-  
+</section>
+
+<section>
 
 Dal mi půl hodiny na sbalení.
 
@@ -253,7 +277,9 @@ Zlatý řetízek na jejím opáleném krku doslova svítil.
 
 Mávaly mi jako námořníkovi.
 
-  
+</section>
+
+<section>
 
 Petřík stisknutím knoflíku stáhl střechu dolů. Vítr mi rozcuchal vlasy.
 
@@ -287,7 +313,9 @@ Nechtělo se mi sedět potmě.
 
 Nechtělo se mi poslouchat hudební skupinu Vanessa. V pět jsem se oblékl a šel jsem k ní.
 
-  
+</section>
+
+<section>
 
 Královi nebyli doma. Celý dům vypadal jako mrtvý. Jiřík seděl v kuchyni, čelo opřené o desku stolu, a hlasitě chrápal.
 
@@ -295,7 +323,9 @@ Jinak bylo všude ticho.
 
 Šel jsem rovnou nahoru.
 
-  
+</section>
+
+<section>
 
 Pohled, jenž se mi naskytl po otevření dveří do Beátina pokoje, patří k těm _nezapomenutelným_.
 
@@ -320,3 +350,5 @@ V příštím okamžiku dole bouchly kuchyňské dveře a v koupelně začala
 Beáta otevřela oči:
 
 „Nazdárek,“ řekla. „Už se nám po tobě stejskalo.“
+
+</section>

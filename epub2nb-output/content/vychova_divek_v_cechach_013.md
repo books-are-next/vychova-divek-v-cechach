@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Když jsem v pondělí posledního srpnového týdne krátce po osmé vstoupil do kabinetu, kolegové, s výjimkou kolegyně Chvátalové-Sukové, která cosi zuřivě hledala v zásuvkách, už nad fotografiemi z dovolených popíjeli první kávu školního roku 1992/1993.
@@ -41,7 +43,9 @@ Shlížel jsem na ně z té výšky bezmála posměšně.
 
 Co vy o tom, chudáčci, asi tak víte! říkal jsem si.
 
-  
+</section>
+
+<section>
 
 Před devátou jsme se odebrali do sborovny na zahajovací schůzi. U stolů už bylo prakticky plno a udržet Beátě volnou židli nebylo úplně jednoduché. Konečně se – v dojemně snaživém slavnostním kostýmku – objevila ve dveřích. Rozpačitě se rozhlížela – mávl jsem na ni rukou. Když uviděla volné místo, v jejím obličeji se objevila viditelná úleva a okamžitě ke mně zamířila. Potěšeně jsem zaznamenal, kolik kolegů a kolegyň se po nás ohlédlo. Veselý hlahol se na okamžik změnil v diskrétní šum.
 
@@ -55,7 +59,9 @@ Poplašeně zamrkala.
 
 „Uvolněte se,“ řekl jsem, „slečno učitelko.“
 
-  
+</section>
+
+<section>
 
 Zástupkyně Konopná přečetla prezenční listinu – omluven byl kolega Stříbrný, ve kterém podle zprávy ošetřujícího lékaře blížící se začátek školního roku vyvolával _maniodepresivní úzkostné stavy_, a kolega Steve, ve kterém začátek roku vyvolal touhu zůstat ještě tři neděle v Mexiku.
 
@@ -69,7 +75,9 @@ Využil jsem skutečnosti, že nyní byl pohled na ni zcela legitimní, a prohl
 
 A byla u nás.
 
-  
+</section>
+
+<section>
 
 Ředitel školy v úvodu svého zahajovacího projevu vyjádřil naději, že jsme během prázdnin načerpali dostatek nových sil, abychom se mohli plně soustředit na všechny ty náročné _výchovně-vzdělávací úkoly_, které nás v tomto roce čekají, zejména – jak vyplynulo z dalšího – na _vyvložkování komínů_, _výstavbu tolik potřebnýho třetího skleníku_ a na _stavební úpravy kvůli chovu nutrií_. Zástupkyně Konopná v _této souvislosti_ připomněla, že nesmíme zapomínat ani na vlastní výuku.
 
@@ -121,7 +129,9 @@ Zástupkyně Procházková pravila, že _dobře nechápe_, proč se naší nové
 
 Nato zavelela rozchod.
 
-  
+</section>
+
+<section>
 
 _Škola není instituce, škola je děj._
 
@@ -183,7 +193,9 @@ Analýza mé informace si vyžádala chvíli mlčení.
 
 „Hm,“ pravila žena pochybovačně.
 
-  
+</section>
+
+<section>
 
 O pár dní později se v kuchyni posadila naproti mně.
 
@@ -223,7 +235,9 @@ Vůbec jsem nepostřehl, že přišla.
 
 Pro tentokrát jsem to měl za sebou.
 
-  
+</section>
+
+<section>
 
 Nepočítám-li velkou přestávku a občasná setkání v jídelně, potkávali jsme se ve škole jen během přecházení z kabinetu do tříd. Oba jsme se snažili vyjít _ihned_ po zazvonění, čímž jsme si sice u kolegů vysloužili nejednu ironickou poznámku, ale na druhé straně jsme zase časem dokázali se značnou přesností odhadnout, v kterém místě schodiště či chodby se střetneme – v prvních týdnech Beátina působení na škole to bývala opravdu _radostná_ a _milostiplná_ setkání, třebaže jsme se většinou neodvážili udělat víc než se dotknout konečky prstů nebo se o sebe otřít lemem šatů. Tu a tam se mě však zmocňovala jakási slepá, bezohledná odvaha: tehdy jsem Beátě na poslední chvíli zastoupil cestu, takže mi chtě nechtě musela vpadnout do náruče – poplašeně se vzpírala, slabě pokňourávala a odstrkovala mě magnetofonem.
 
@@ -247,7 +261,9 @@ Zavřel jsem je sám.
 
 Pane inspektore.
 
-  
+</section>
+
+<section>
 
 Po víkendech to nebylo o mnoho lepší. Měl-li jsem náhodou volno, ona učila. A naopak. Ale především: každý den na mne před horní školou čekávala dcera.
 
@@ -257,7 +273,9 @@ Za celé září jsme byli na Strakonické jednou.
 
 Bylo to jako z Woodyho Allena, ale nebyla to žádná velká sranda.
 
-  
+</section>
+
+<section>
 
 Dodatečně si vybavuji některé další momentky naší společné školní minulosti.
 
@@ -267,7 +285,9 @@ _Sýr._
 
 Oba vypadáme strašně.
 
-  
+</section>
+
+<section>
 
 Jiný obrázek. Teplé zářijové odpoledne. Babí léto. Beáta a já na lavičkách v třešňové aleji pod Havlínem. _Suplujeme_ pracovní vy­učování. Třídy jsou vděčné – lepší než utírat prach ze zábradlí. Zvláštní, výjimečný poklid. Nikdo nekřičí, dokonce ani kluci nelezou po stromech. Na sousedním hřišti tiše skřípe kolotoč. Děti posedávají a polehávají v trávě kolem nás. Cucají stébla a povídají si. Mezi sebou i s námi. Beáta si svlékne svetr a zůstane jenom v černém triku. Slunce hřeje. Urnový háj je pár metrů nad námi.
 
@@ -279,7 +299,9 @@ Mhouří oči do slunce.
 
 Nikdo nic netuší.
 
-  
+</section>
+
+<section>
 
 _Urnový háj architektonicky navrhl zbraslavský občan architekt Hynek Svoboda. Parkovou úpravu vhodně doplnil plastikami zapůjčenými ze sbírek Národní galerie. Je vzorem pro naše i zahraniční odborníky._
 
@@ -361,7 +383,9 @@ Nikoliv, v září jsem se s ní snažil _vyspat_.
 
 Jednou se mi to povedlo.
 
-  
+</section>
+
+<section>
 
 K její povídce jsme se vrátili rovněž jen jednou.
 
@@ -373,7 +397,9 @@ Proč tedy vybrala zrovna tuhle? Prý aby mi vysvětlila své počáteční chov
 
 Ve skutečnosti ji ale na psaní momentálně nezajímalo nic; jedinou její opravdovou ambicí – připadalo mi – byla touha stát se nejlepší učitelkou na Praze 5.
 
-  
+</section>
+
+<section>
 
 A nyní moje ambice:
 
@@ -405,7 +431,9 @@ Napsat dobrý román.
 
 (Nehodící se škrtněte.)
 
-  
+</section>
+
+<section>
 
 _Moje ambice_… Když jsem si to dneska po sobě přečetl, uvědomil jsem si poprvé pořádně, co jsem to vlastně v tomto románu udělal – onu _vzrušivou ohavnost, jíž je každý autorský úvod_ (Salinger), jsem rozšířil na celou knihu.
 
@@ -437,7 +465,9 @@ Překvapuje mne, pravil jsem, že osobnost tak nonkonformní, jakou ona bezespor
 
 „Tak dobře,“ pravila. „Tak mi teda nalej.“
 
-  
+</section>
+
+<section>
 
 Když jsem nad první verzí tohoto románu vzpomínal na ono následné řádění, vybavoval jsem si přirozeně scény _čtenářsky vděčné_ – půlnoční hlášení školního rozhlasu (s poněkud prvoplánovými imitacemi projevů ředitelských a ministerských), instruktáž kolegyně Trakařové o použití _vakuové pumpy_ či milování učitelské dvojice na podlaze jedné ze zhasnutých tříd (už jste někdy, pánové, byli po tom něžně omyti houbou na tabuli?), ale všechny tyto veselé obrázky mi dodnes zastiňuje jeden jediný výjev:
 
@@ -455,7 +485,9 @@ Beáta v náručí smrti.
 
 Výjev jako z Harlequina.
 
-  
+</section>
+
+<section>
 
 _Příběh je tehdy domyšlen do konce, nastane-li v něm obrat k nejhoršímu._
 
@@ -491,7 +523,9 @@ Odvlekl jsem ji do žákovských šaten, kde jsme vyčkali do zvonění. Potom j
 
 „Je jí strašlivě zle,“ pravil jsem. „Pustila si omylem _Lašské tance_.“
 
-  
+</section>
+
+<section>
 
 Druhou hodinu měla Beáta sloh v šestce.
 
@@ -517,7 +551,9 @@ Nechala děti projít.
 
 „Málem jsem poblila Gutfreunda,“ šeptala zdrceně.
 
-  
+</section>
+
+<section>
 
 Bohužel ani svou další radou, aby v příští hodině využila učebnice _Píšeme správně česky?_ (jejíchž patnáct exemplářů jsem jí ochotně z kabinetu zapůjčil), jsem Beátě – podobně jako přede mnou Jaromír – příliš neposloužil. Kniha vyšla v roce 1983 a ona naneštěstí přehlédla, že cvičení, která dětem ukládá, obsahují mimo jiné i několik _členů ústředního výboru Komunistické strany Československa_, jedno shromáždění _Lidových milicionářů_ a jeden _sovětský ledoborec Krasin_.
 
@@ -525,7 +561,9 @@ Nepřehlédla je naopak jedna z matek, která se sešitem svého i_ndoktrinovan
 
 A průšvih byl na světě.
 
-  
+</section>
+
+<section>
 
 Prozápadní orientace naší mládeže byla vážně ohrožena.
 
@@ -539,7 +577,9 @@ _Český deník_ nasadil na případ jednoho ze svých nejlepších novinářů�
 
 Haj hou.
 
-  
+</section>
+
+<section>
 
 Vůbec první věcí, kterou školní inspektor pro Prahu 5 Mgr. Jiří Vagenknecht na naší škole učinil, byla hospitace na hodině údajného původce všech těch _rebelií_: Bez bázně a hany jsem – vzpomínám si – vyprávěl cosi o Hrabalovi (svou slabost pro Skálovu sbírku _Zdravím vás_, _okna_ jsem pochopitelně zatajil). Připadalo mi ale, že inspektor opravdu chce přijít celé věci na kloub, a tak jsem ho cestou z hodiny stručně seznámil s našimi úspěchy na cestě za ekonomickou samostatností, jíž se společně s žáky snažíme dosáhnout především prodejem kořenové zeleniny na zbraslavském náměstí a prodejem losů v zbraslavských restauračních zařízeních. Dále jsem mu vyprávěl, kolik má naše škola skleníků, kolik ze školy odešlo učitelů, kolik těch zbylých je aprobovaných, kolik minut průměrně trvá pedagogická porada a kolik pětek a čtyřek dokáže za jedinou hodinu rozdat jediná učitelka. Samozřejmě jsem ho seznámil i se svou verzí případu _Sovětský ledoborec_, přičemž jsem ho v rámci objektivity upozornil na svou možnou předpojatost, datující se již od předloňského léta, kdy ředitel školy označil mou divadelní hříčku Zájezd do Evropy aneb Švanda 1990, kterou jsem s dětmi také inscenoval, za _skrytý útok proti Klausově ekonomické reformě_.
 
@@ -551,7 +591,9 @@ Nazítří mi na oplátku přinesl básnickou sbírku Karla Šiktance Český or
 
 Ve zprávě o provedené _hloubkové inspekci_ pak všechny naznačené problémy definoval jako _spory víceméně osobní povahy_.
 
-  
+</section>
+
+<section>
 
 Básníka Karla Šiktance si upřímně vážím.
 
@@ -561,11 +603,15 @@ Tento ideologický pseudoproblém nebyl bohužel jediným následkem povedené o
 
 Opakovaně jsem ji ujišťoval, že můj vztah k Beátě je ryze _kamarádský_ (vzhledem k četnosti našich výletů na Strakonickou to ostatně byla téměř pravda), a vyzýval jsem ji, abychom se nenechali manipulovat zlobou, záští a závistí našeho okolí. Na velikost jejích slz to ovšem nemělo žádný postřehnutelný vliv.
 
-  
+</section>
+
+<section>
 
 Podle průzkumu, který uskutečnil americký list The Washington Post, si 97 procent Američanů myslí, že jim jejich manželé či manželky obvykle říkají pravdu.
 
-  
+</section>
+
+<section>
 
 Zdvojnásobil jsem dosavadní bezpečnostní opatření, což se prakticky rovnalo rozchodu.
 
@@ -585,7 +631,9 @@ Mimo jiné mi řekla, že jsem _bezbarevný_.
 
 Kritizovala i naši vinárnu v Horních Počernicích.
 
-  
+</section>
+
+<section>
 
 Příštího dne volal anonym znovu. Upřesnil mé ženě, že nyní chodíme _šukat_ do skladu tělocvičného nářadí.
 
@@ -599,13 +647,17 @@ Strávil jsem v jejím pokojíčku zbytek večera.
 
 Chcete-li slyšet plakat anděla, řekněte devítileté dívence, že její tatínek _šuká s jinou_.
 
-  
+</section>
+
+<section>
 
 Ona diskrétní vinárna v Horních Počernicích mi začala připadat nebezpečná. Vrchní vypadal jako fízl.
 
 Mé ranní erotické fantazie (jichž vzhledem k situaci logicky přibývalo) se už neodehrávaly ani na Slapech, ani v Beátině podkroví, nýbrž v zastrčeném hotýlku na předměstí Reykjavíku, přičemž _opravdovou jiskru_ jim dokázala dodat teprve představa přerušeného leteckého spojení s Prahou.
 
-  
+</section>
+
+<section>
 
 Špatně jsem spal.
 
@@ -615,7 +667,9 @@ Také mne ustavičně tlačil žaludek.
 
 _Únik do nemoci._
 
-  
+</section>
+
+<section>
 
 A do psaní, samozřejmě.
 
@@ -664,3 +718,5 @@ Kruh se uzavíral.
 „Skončeme to,“ řekla. „Nemá to cenu.“
 
 Zavřela to.
+
+</section>

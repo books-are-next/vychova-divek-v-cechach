@@ -3,13 +3,17 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 _Trvalý půvab příběhu._
 
 — Walter Kerr
 
-  
+</section>
+
+<section>
 
 Asi nepřekvapí, že moje vzpomínky na zbylou část noci jsou ne­uspořádané a neúplné. Spolehlivě vím jen to, že _touha rozsévače_ (ačkoli _zvíře_ by možná bylo přesnější) se po vypití několika sklenic šampaňského a trošky koňaku může kupodivu probudit i ve velmi způsobném hošíkovi, jenž zásadně nestrká nůž do pusy ani nesbírá věci ze země, a že mé stále častější a stále méně kradmé pohledy směrem ke stolu rusovlásky s vyndavacími ňadry ovládla žalostně primitivní chlípná _žádost_. Po Němcově odjezdu jsem si k ní ke Králově radosti dokonce přisedl, takže se mohu pochlubit, že všechny cigarety, které vykouřila zhruba po druhé hodině ranní, jsem jí připaloval sám. Bylo to ostatně to nejmenší, co jsem pro ni mohl udělat, neboť jsem byl _ve jménu lásky_ pevně odhodlán – kdyby si to snad byla bývala přála – sebrat ze země nebo strčit si do úst úplně cokoliv. Požádala mne však o to, abych jí povídal _něco hezkého_ o škole, což nebyl zrovna lehký úkol, ale celkem jsem to myslím zvládl. Už to vypadalo, že mne za mé vypravování a galantní připalování odmění tím krásným kulatým dárkem ze svého výstřihu, ale naneštěstí si k nám potom přisedl zcela namazaný Král a se známým patosem opilců mne zapřísahal, abych mu prý _uzdravil jeho dcerušku_.
 
@@ -17,7 +21,9 @@ Petřík zřejmě zůstal natolik střízlivý, že nás oba mohl odvézt domů�
 
 (Dneska jsem si z korektur románu Lubomíra Martínka Mys dobré beznaděje opsal větu, která mne možná nepříjemně usvědčuje: _Humor zlehčující je samé, aby se jim dostalo ujištění o opaku_.)
 
-  
+</section>
+
+<section>
 
 Když mladý gymnaziální profesor v Čechovově povídce Člověk ve futrálu přijede jednoho dne do školy na kole, jeho starší kolega Bělikov je krajně pobouřen: _Když učitel jezdí na velocipédu, co pak zbývá žákům? To už jen aby chodili po hlavě!_
 
@@ -87,7 +93,9 @@ Jeho optimismus mi připadal hraný.
 
 „Zbláznil ses? O ničem nevíš – dělej mrtvýho brouka.“
 
-  
+</section>
+
+<section>
 
 O deset minut později – to už byl náš kabinet v plné sestavě – zavřískl pod okny nezaměnitelný hlas Radka Zeleného:
 
@@ -111,7 +119,9 @@ Poděkoval jsem mu očima.
 
 „Někdo vám nablil pod vokno!“ zaječel venku uraženě Zelený.
 
-  
+</section>
+
+<section>
 
 Navzdory neúspěchu se _Samaritánem_ byly všechny mé příští hodiny poznamenány až úzkostlivou snahou dodržovat všechna Vladimírova přikázání.
 
@@ -131,7 +141,9 @@ Nechápali ten náhlý odliv kamarádské přízně.
 
 Všechny mé strohé repliky směřovaly vysoko ke stropu.
 
-  
+</section>
+
+<section>
 
 Během čtvrté vyučovací hodiny se objevily zrakové halucinace.
 
@@ -161,7 +173,9 @@ Rozhodla se, že půjde ven.
 
 (Toto pedagogické _know how_ předávám tímto zcela nezištně, ale zároveň hned upozorňuji, že případné nadužívání tohoto jednoduchého triku vede většinou k prozrazení, a kromě toho se vám v lednici zkazí maso.)
 
-  
+</section>
+
+<section>
 
 Vrátila se vzápětí, pláč na krajíčku.
 
@@ -189,7 +203,9 @@ Zavřel jsem oči. Otcovský stud.
 
 Šel jsem si vykloktat, abych ji políbil.
 
-  
+</section>
+
+<section>
 
 Když přišla žena z práce, ještě jsem spal.
 
@@ -199,7 +215,9 @@ Vzchopil jsem se, abych jí převyprávěl příběh uplynulé noci: použil jse
 
 No tak si trhni nohou, říkal jsem si dotčeně.
 
-  
+</section>
+
+<section>
 
 _Agátino_ odpuštění jsem získal o poznání snadněji: za kelímek banánové zmrzliny zakoupené v cukrárně ve Zbraslavance, kam jsem cestou ke Králům původně zašel pro _osvěžující_ žvýkačky Orbit.
 
@@ -263,7 +281,9 @@ Když zjistila, že si nedělám legraci, polichoceně se začervenala.
 
 V podstatě se nemýlila.
 
-  
+</section>
+
+<section>
 
 Včera jsem pod vlivem staršího článku Přemysl Ruta _Egoismus jako umělecký směr_ opětovně zvažoval onu trapnou skutečnost, že jsem se samozvaně učinil protagonistou této knihy. Zkoušel jsem to dokonce s vyprávěním ve třetí osobě:
 
@@ -349,7 +369,9 @@ Rychlost, s jakou se vzápětí dostala do ráže, byla udivující:
 
 „Dobře mě poslouchej: Kašlu na tvý vyčtený moudrosti, kašlu na to, jak to báječně koulíš s dětma, a kašlu na tvý úžasný a netradiční _metody_! Já ti seru na tu tvoji úžasnou _práci s hlasem_! Rozumíš tomu?“
 
-  
+</section>
+
+<section>
 
 Zasáhla mě.
 
@@ -369,7 +391,9 @@ Ještě jednou jsem pohlédl na obličej zabořený do potemnělého trávníku.
 
 „Jsou dvě možnosti,“ řekl jsem. „Buďto je totálně na dně, nebo šmíruje krtka.“
 
-  
+</section>
+
+<section>
 
 _… fotr vyletěl komínem._
 
@@ -377,7 +401,9 @@ _… fotr vyletěl komínem._
 
 _Understatement._ Podhánění.
 
-  
+</section>
+
+<section>
 
 Naštěstí se záhy vrátila do pokoje.
 
@@ -441,7 +467,9 @@ Odtáhli jako zpráskaní psi.
 
 Zpráva o _strašlivých_ výsledcích včerejších prověrek se díky této ranní _dělostřelecké přípravě k pedagogickému útoku_ okamžitě rozšířila, takže když jsem pak v jednotlivých třídách neopravené prověrky _velkoryse_ a _dobrácky_ trhal do velikosti karnevalových konfet, sklízel jsem jen a jen upřímné uznání.
 
-  
+</section>
+
+<section>
 
 _Český kantor není mrtvý mýtus._
 
@@ -455,7 +483,9 @@ Suplování literatury v VII. D naštěstí potvrdilo alespoň ten jeden jedin�
 
 Než mi začala tuhnout spodní čelist, _spontánně_ jsem je opětoval.
 
-  
+</section>
+
+<section>
 
 Následující hodinu jsem šel na oběd.
 
@@ -477,17 +507,23 @@ Když jsem se vracel nazpět do kabinetu, byly po celém schodišti v pravideln
 
 „Co je to tam?“ volala z druhého poschodí Máta.
 
-  
+</section>
+
+<section>
 
 Ředitel se na odpolední třídní schůzky dostavil v nádherném šedomodrém obleku, který – řečeno slovníkem žáků naší školy – takřka _neměl chybu_. (Pokud by se dalo o nějaké chybě vůbec mluvit, pak snad jedině o tom – ale to je opravdu prkotina – že kalhoty měly červený lampas a na pravém rukávu saka zůstal čitelný nápis US NAVY FORCES.) Mimořádně dobře padnoucí sako, jež bylo mimochodem nepřímým důkazem, že i důstojník americké armády může mít pupek, povzbudilo ředitelovo už beztak značné sebevědomí natolik, že na tradiční kritické dotazy během úvodního zasedání rodičovské rady (_Proč až dosud nepředložil žádnou koncepci? Proč ze školy odcházejí učitelé, zvláště pak mladí? Proč musí škola odebírat časopis Rybářství?_) odpovídal s posměšnou blazeovaností a triumfálními odkazy na _právní subjektivitu a zvýšené kompetence ředitelů_. – Jinak měly třídní schůzky zcela standardní průběh: rodiče, přinucení nejprve uklízečkou k vyzutí bot, stáli dlouhé fronty v ponožkách na studeném linoleu, aby se po hodině čekání na příslušného učitele dozvěděli, že naprosto klíčovým problémem jejich dospívajícího dítěte je nedostatečná znalost síranů a kysličníků.
 
-  
+</section>
+
+<section>
 
 _My si nepřejeme žádný velký zlom. Reforem už bylo tolik, že jsou z toho všichni modrý._
 
 — Petr Piťha
 
-  
+</section>
+
+<section>
 
 Prodíraje se přeplněnými chodbami, klopil jsem oči k zemi, takže jsem málem přehlédl paní Doubkovou, s níž jsem se chtěl poradit, jak konečně přimět jejího syna k dopsání slíbené rozlučkové řeči – snažil jsem se jí vysvětlit, jak už jen pouhá představa, že bych ono _poděkování učitelům_ musel i letos psát já sám, je pro mne takřka fyzicky odpudivá. Slíbila, že _udělá_, _co bude moci_. Když jsme se loučili, s vědoucím úsměvem mi popřála _úspěchy v mém vedlejším zaměstnání_.
 
@@ -497,7 +533,9 @@ Rychlost přenosu dat ve zbraslavské lokální informační síti mne nikdy nep
 
 _Jenom za neúspěchy_, říkal jsem si v duchu.
 
-  
+</section>
+
+<section>
 
 Domluvili jsme se, že na mne počká po schůzkách před školou. K mému překvapení však čekal přímo v kabinetě – seděl na mé vlastní židli, nohu přehozenou přes nohu, popíjel kávu z mého hrníčku a nenuceně konverzoval s mými kolegy.
 
@@ -527,7 +565,9 @@ Vzhledem ke Králově přítomnosti bylo naše _souhlasné přitakávání_ pře
 
 „Učí sexuální výchovu,“ uvedl jsem Krále do obrazu. „Předpokládám, že rodičové jí právě zakázali probírat s dětmi _Venušiny kuličky_.“
 
-  
+</section>
+
+<section>
 
 „Tak co ředitel?“ zeptal jsem se Krále později v autě.
 
@@ -545,7 +585,9 @@ Krátce přikývl.
 
 „Ale ne,“ smál se Král. „Chce to na nutrie.“
 
-  
+</section>
+
+<section>
 
 _Vedení Základní školy V. Vančury nás znovu přesvědčilo, že nepatří k těm, kteří jenom skuhrají na nedostatek finančních prostředků. Pan ředitel Naskočil přišel totiž s dalším dobrým nápadem – a sice na zakoupení menšího počtu nutrií. Huňatá zvířátka s ceněnou kožešinou se dobře uživí ze zbytků ze školní jídelny a krmit a ošetřovat je budou sami žáci v hodinách přírodopisu a vaření. Výtěžek z jejich pozdějšího prodeje bude podle slov pana ředitele věnován na vybavení tolik potřebné počítačové pracovny. Jak je vidět, když se chce, tak to jde – dokonce i v tom neustále kritizovaném školství. Gratulujeme!_
 
@@ -628,3 +670,5 @@ Nadechla se.
 Nevěřil jsem svým uším.
 
 „Děláš si srandu?!“ řekl jsem klidně. „Jestli to až dodneška byl _mír_, tak potom teda opravdu radši válku!“
+
+</section>

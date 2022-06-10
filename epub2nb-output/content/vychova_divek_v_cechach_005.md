@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 _To nejpodivnější, co nás na počátku každého vyprávění nejvíce zaráží, je dokonalá prázdnota, rozprostírající se před námi. Události se staly a leží kolem nás v souvislé, beztvaré mase, bez počátku a konce. Můžeme začít kdekoli…_
@@ -43,7 +45,9 @@ Obojí bylo pravda.
 
 „Dobrou noc,“ oznámila mi věcně.
 
-  
+</section>
+
+<section>
 
 _A únavy z vymyšlených obrazů světa, podezření ke každému výmyslu, dokonce, a zřejmě nespravedlivě, i k tomu odvěkému a úctyhodnému v literárním umění, přibylo tak radikálně, že nastal zvláštní čas pokory před literaturou faktu a uměním a pravdou deníků._
 
@@ -99,7 +103,9 @@ Nechápal jsem:
 
 Vyměnili si krátké pohledy.
 
-  
+</section>
+
+<section>
 
 Doprovodili mne k mramorovému schodišti, jež vedlo na prostornou letní terasu, poněkud problematicky zařízenou dvěma bílými plastikovými stolky, čtyřmi fialovými plastikovými křesílky a jedním oranžovozeleným slunečníkem. Ukázali mi, abych se tam posadil.
 
@@ -141,7 +147,9 @@ Z nějakého mně neznámého důvodu vyprskla smíchy. Několik drobných lup�
 
 Věděl jsem, že vilu koupil v roce 1990, ale že tu nebydlí nijak dlouho, se dalo odhadnout i podle toho, jak vyslovoval _moje pracovna_.
 
-  
+</section>
+
+<section>
 
 Neuniklo mi, že byla zamčená – a zřejmě jen díky tomu v ní byl pořádek: věci na psacím stole z mořeného dubu srovnané, šanony vyrovnané v policích, medový koberec vyluxovaný a ani v manažerském křesle v kombinaci dřeva a pravé kůže nebyl vylitý žádný koktejl. Prostoru dominoval vznosný oblouk impozantní zlaté stolní lampy. Musím přiznat, že pracovna na mě (navzdory jisté nenápaditosti) svou luxusní elegancí zapůsobila.
 
@@ -179,7 +187,9 @@ Něco nesouhlasilo.
 
 Myslel pochopitelně Beátu.
 
-  
+</section>
+
+<section>
 
 Přirozeně mě to maličko zaskočilo – a Král jako profesionální obchodník mého zaváhání ihned využil.
 
@@ -297,21 +307,29 @@ Rychle jsem zavřel dveře.
 
 „Dal ses na _podnikání_?“ pravila Irenka.
 
-  
+</section>
+
+<section>
 
 Poznámka inspirovaná žížalami:
 
 Když kolegyně Chvátalová-Suková narazila na obzvlášť velké kousky, stávalo se občas, že je při soukání z hlíny samou dychtivostí přetrhla. Z toho je třeba se poučit, neboť tento skutečný příběh, jehož jsem se stal šťastnou náhodou přímým účastníkem (snad zase jen spisovatel dokáže pochopit štěstí autora, jemuž v době naprosté nevíry ve smyšlené světy nadělí osud _autentickou událost_), není v jistém smyslu nic jiného než _tučná rousnice_. Chci-li ji dostat _celou_, musím postupovat maximálně opatrně.
 
-  
+</section>
+
+<section>
 
 Mimochodem: polní lopatka, s níž Chvátalová-Suková návnadu pokaždé dobývá, není jen tak obyčejná polní lopatka. Stejně tak terénní automobil Jeep, který od jara stává v pracovních dnech před školou, není jen tak obyčejný terénní automobil. Řeknu-li nyní, že jeep i lopatka pocházejí z výstroje americké námořní pěchoty, riskuji, že toto mé tvrzení bude bráno jen jako divoký nápad nekontrolujícího se fabulátora – raději proto budu v plném znění citovat článek, který byl pod titulkem _DOBRÝ NÁPAD_ publikován ve _Zbraslavských novinách_ (4/1992, str. 3):
 
-  
+</section>
+
+<section>
 
 _Minulý měsíc zaznamenal podnikavý duch ředitele Základní školy Vladislava Vančury ve Zbraslavi další úspěch. Jako první z ředitelů základních škol na Praze 5 zareagoval na nabídku amerického velvyslanectví na možnost výhodného odkoupení výstroje a vybavení, které v Německu zanechává odcházející kontingent americké armády. Naše škola tak velice lacino (zboží bylo osvobozeno od dovozního cla a všech daní včetně daně z přidané hodnoty a daně darovací) mimo jiné získala osm vysouvacích žebříků, použitelných jako ribstoly, trojnožkové lafety, jež se dobře uplatní coby stojany na potřebné přenosné tabule, dále sadu pracovní obuvi a oblečení a konečně ojetý terénní automobil značky Jeep. – Další pádný důkaz o tom, že lepší než čekat s nastavenou rukou je jednat… Gratulujeme!_
 
-  
+</section>
+
+<section>
 
 Přesně v osm podruhé zazvonilo. Miluška byla dosud nepřítomna.
 
@@ -331,7 +349,9 @@ Burácivý start terénního automobilu pod oknem kabinetu však vzápětí nazn
 
 „Přirozeně s výjimkou Milušky.“
 
-  
+</section>
+
+<section>
 
 Podle dochovaného rozvrhu jsem v onom školním roce míval první páteční hodinu sloh v VIII. C, kde jsem byl zároveň již čtvrtý rok _třídním_. (Alespoň krátce k mé třídě: někteří žáci byli, zjednodušeně řečeno, trochu _problémoví_ a svůj vztah k nim jsem hledal hodně dlouho – avšak ještě i v letech, kdy už jsme vzájemně vycházeli celkem dobře, se celé třídy čas od času zmocnila jakási kolektivní nepříčetnost, během níž většinou rozházeli a rozdrtili po podlaze několik barevných kříd, popřípadě za pomoci přezrálého pomeranče vytvořili na čerstvě vymalovaných stěnách nový osobitý vzorek – po mém rozlíceném příchodu potom jen klopili zrak, ještě celí zpocení a udýchaní, a když jsem jim vztekle zdvihal za bradu hlavy, v jejich očích byla jen dětská nevinnost.) Ale zpátky ke slohu – samozřejmě, že jsem _překypoval elánem a gejzíry nápadů a neuvěřitelná bohatost a pestrost mnou připravených cvičení užaslým žákům nadto nepřetržitě představovala mateřský jazyk jako ohromující a účinný nástroj sebepoznání…_ Jinak řečeno: nevyhnutelnou daní za volbu vyprávění v první osobě je nemožnost _pravdivě_ popsat případné zdařilé hodiny.
 
@@ -343,13 +363,17 @@ Podle dochovaného rozvrhu jsem v onom školním roce míval první páteční 
 
 _Žákovská perlička_. I naprosto nearogantní intelektuál se jen soucitně pousměje (_pražský_ intelektuál bude nejspíš zdvořile předstírat, že nic neslyšel – jako když kupříkladu v jeho přítomnosti nějaký nevzdělaný nebožák nechtěně zkomolí jméno Jorge Luis Borges). Je mi to úplně jasné. Ještě jedna žákovská perlička – a už mi toho _povrchního humoristu_ opravdu nikdo neodpáře.
 
-  
+</section>
+
+<section>
 
 Moje budoucí žačka se mi toho dopoledne nepřímo připomněla ještě dvakrát.
 
 Nejdříve, když jsem o přestávce v rámci tzv. _pedagogického dozoru_ bezcílně bloumal chodbou, objevil jsem na jedné z nástěnek Beátin starý výkres – pocházel z doby, kdy navštěvovala osmou třídu. Byla to zdařilá kresba uhlem, jejímž jediným námětem byla _levá ruka_, nepochybně její vlastní. Napadlo mě, že je mi podoba té dívky předváděna jaksi po kouscích, jako v onom obrazovém kvízu ve známé televizní soutěži; zatím jsem znal odraz části její tváře ve zpětném zrcátku a šest let starou kresbu její levé ruky – a přistihl jsem se, že ve mně roste jakási stupidní zvědavost.
 
-  
+</section>
+
+<section>
 
 A v půl druhé čekal před školou Král.
 
@@ -425,7 +449,9 @@ Jelo se docela pomalu, jako by mi chtěli poskytnout dostatek času, abych oceni
 
 „Prostři jeden příbor navíc,“ přikazoval vlídně, ale dobře slyšitelná – nechápavá a záhy i maličko nevrlá – reakce paní Králové smysl jeho telefonátu v době, kdy nás od jídelny v jejich bytě dělilo pár set metrů, zpochybnila dostatečně výmluvně.
 
-  
+</section>
+
+<section>
 
 Obědvali jsme s Králem sami, Agáta i řidič se kamsi vytratili. Rovněž po Beátě nebylo ani stopy, ale Král očividně necítil nejmenší potřebu její nepřítomnost nějak komentovat, takže jsem se neptal. Dva aperitivy mě sice dostatečně uvolnily, ale přesto jsem zůstával jaksi ve střehu. Král se po polévce na chvíli vzdálil a já si zatím z okna jídelny prohlédl zbývající část zahrady. I tady můj pohled narážel na podivné věci: byly tu pahýly diletantsky prořezaných keřů, hluboko propadlé, zarostlé záhony i zcela odkryté kořeny angreštů a rybízů. Vrcholem všeho bylo rozvalené bednění kompostu, na němž se vršila nevysvětlitelná směs větví, hlíny, lepenkových krabic, kamení a drátů.
 
@@ -469,8 +495,12 @@ Pohlédl z okna. Nepochybně měl jakousi starost.
 
 „Poslyšte,“ řekl náhle nezvykle tiše. „Vemte tu práci.“
 
-  
+</section>
+
+<section>
 
 A já na to:
 
 „Tak dobrá.“
+
+</section>

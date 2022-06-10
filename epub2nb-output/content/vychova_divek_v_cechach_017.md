@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Anglický spisovatel Graham Greene byl mimo jiné znám tím, že posledními větami svých knih s oblibou občas problematizoval veškerá svá předchozí tvrzení. V případě tohoto románu by takový _greeneovský_ konec mohl vypadat kupříkladu takto:
 
 „To ses zase _vyřádil_,“ pravila žena ironicky, když rukopis dočetla.
@@ -14,3 +16,5 @@ Zkoumavě pozorovala, nakolik se sám tvářím provinile, aby tak odhadla rozsa
 Chtěl jsem ji obejmout, ale bránila se.
 
 „Jdi ty,“ chlácholil jsem ji, „nesmíš tu literaturu brát tak vážně.“
+
+</section>
