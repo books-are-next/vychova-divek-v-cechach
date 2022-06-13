@@ -8,7 +8,8 @@
       "modified": "2021-09-14T12:20:15.946Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2482-5"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -31,202 +32,208 @@
     },
     "structure": [
       {
-        "filename": "vychova_divek_v_cechach_001.md",
-        "xhtml": "vychova_divek_v_cechach_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_002.md",
-        "xhtml": "vychova_divek_v_cechach_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_003.md",
-        "xhtml": "vychova_divek_v_cechach_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_004.md",
-        "xhtml": "vychova_divek_v_cechach_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_005.md",
-        "xhtml": "vychova_divek_v_cechach_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "I",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_006.md",
-        "xhtml": "vychova_divek_v_cechach_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "II",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_007.md",
-        "xhtml": "vychova_divek_v_cechach_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "III",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_008.md",
-        "xhtml": "vychova_divek_v_cechach_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "IV",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_009.md",
-        "xhtml": "vychova_divek_v_cechach_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "V",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_010.md",
-        "xhtml": "vychova_divek_v_cechach_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "VI",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_011.md",
-        "xhtml": "vychova_divek_v_cechach_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "VII",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_012.md",
-        "xhtml": "vychova_divek_v_cechach_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "VIII",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_013.md",
-        "xhtml": "vychova_divek_v_cechach_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "IX",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_014.md",
-        "xhtml": "vychova_divek_v_cechach_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "X",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_015.md",
-        "xhtml": "vychova_divek_v_cechach_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "XI",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_016.md",
-        "xhtml": "vychova_divek_v_cechach_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "XII",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_017.md",
-        "xhtml": "vychova_divek_v_cechach_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "vychova_divek_v_cechach_018.md",
-        "xhtml": "vychova_divek_v_cechach_018.xhtml",
-        "id": 17,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "vychova_divek_v_cechach_001.md",
+            "xhtml": "vychova_divek_v_cechach_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_002.md",
+            "xhtml": "vychova_divek_v_cechach_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_003.md",
+            "xhtml": "vychova_divek_v_cechach_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_004.md",
+            "xhtml": "vychova_divek_v_cechach_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_005.md",
+            "xhtml": "vychova_divek_v_cechach_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "I",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_006.md",
+            "xhtml": "vychova_divek_v_cechach_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "II",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_007.md",
+            "xhtml": "vychova_divek_v_cechach_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "III",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_008.md",
+            "xhtml": "vychova_divek_v_cechach_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "IV",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_009.md",
+            "xhtml": "vychova_divek_v_cechach_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "V",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_010.md",
+            "xhtml": "vychova_divek_v_cechach_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "VI",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_011.md",
+            "xhtml": "vychova_divek_v_cechach_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "VII",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_012.md",
+            "xhtml": "vychova_divek_v_cechach_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "VIII",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_013.md",
+            "xhtml": "vychova_divek_v_cechach_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "IX",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_014.md",
+            "xhtml": "vychova_divek_v_cechach_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "X",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_015.md",
+            "xhtml": "vychova_divek_v_cechach_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "XI",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_016.md",
+            "xhtml": "vychova_divek_v_cechach_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "XII",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_017.md",
+            "xhtml": "vychova_divek_v_cechach_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "vychova_divek_v_cechach_018.md",
+            "xhtml": "vychova_divek_v_cechach_018.xhtml",
+            "id": 17,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          }
+        ]
       }
     ]
   },
@@ -423,6 +430,6 @@
       "user": "books-are-next",
       "repo": "vychova-divek-v-cechach"
     },
-    "generatedAt": 1654949055551
+    "generatedAt": 1655155819679
   }
 }
