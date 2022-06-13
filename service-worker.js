@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-b861b2d';
+const CACHE = 'cache-559ad9e';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./vychova_divek_v_cechach_005.html","./vychova_divek_v_cechach_006.html","./vychova_divek_v_cechach_007.html","./vychova_divek_v_cechach_008.html","./vychova_divek_v_cechach_009.html","./vychova_divek_v_cechach_010.html","./vychova_divek_v_cechach_011.html","./vychova_divek_v_cechach_012.html","./vychova_divek_v_cechach_013.html","./vychova_divek_v_cechach_014.html","./vychova_divek_v_cechach_015.html","./vychova_divek_v_cechach_016.html","./vychova_divek_v_cechach_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_vychova_divek_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./vychova_divek_v_cechach_005.html","./vychova_divek_v_cechach_006.html","./vychova_divek_v_cechach_007.html","./vychova_divek_v_cechach_008.html","./vychova_divek_v_cechach_009.html","./vychova_divek_v_cechach_010.html","./vychova_divek_v_cechach_011.html","./vychova_divek_v_cechach_012.html","./vychova_divek_v_cechach_013.html","./vychova_divek_v_cechach_015.html","./vychova_divek_v_cechach_014.html","./vychova_divek_v_cechach_016.html","./vychova_divek_v_cechach_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_vychova_divek_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
