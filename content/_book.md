@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2482-5
+  contentType: prose
 readingOrder:
   - promo.html
   - vychova_divek_v_cechach_005.html
