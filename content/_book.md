@@ -29,7 +29,7 @@ readingOrder:
   - vychova_divek_v_cechach_015.html
   - vychova_divek_v_cechach_016.html
   - vychova_divek_v_cechach_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
