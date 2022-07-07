@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vychova-divek-v-cechach-fc88bad",
-  "revision": "fc88bad",
+  "identifier": "viewegh-vychova-divek-v-cechach-8aa34f8",
+  "revision": "8aa34f8",
   "readingOrder": [
     "promo.html",
     "vychova_divek_v_cechach_005.html",
@@ -25,11 +25,11 @@
     "vychova_divek_v_cechach_015.html",
     "vychova_divek_v_cechach_016.html",
     "vychova_divek_v_cechach_017.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980387364
+    "date": "Thu Jul 07 2022 08:42:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183355891
   },
   "documents": [
     {
@@ -683,7 +683,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "vychova_divek_v_cechach_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -696,11 +696,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 145,
-      "chars": 944,
+      "chars": 943,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "vychova_divek_v_cechach_017.html",
       "next": null,
@@ -717,8 +717,8 @@
   ],
   "totals": {
     "all": {
-      "words": 43319,
-      "chars": 273082,
+      "words": 43318,
+      "chars": 273086,
       "ideas": 2544
     },
     "chapters": {

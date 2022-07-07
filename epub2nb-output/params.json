@@ -62,7 +62,7 @@
             "filename": "vychova_divek_v_cechach_003.md",
             "xhtml": "vychova_divek_v_cechach_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -73,7 +73,7 @@
             "filename": "vychova_divek_v_cechach_004.md",
             "xhtml": "vychova_divek_v_cechach_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -227,7 +227,7 @@
             "filename": "vychova_divek_v_cechach_018.md",
             "xhtml": "vychova_divek_v_cechach_018.xhtml",
             "id": 17,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -431,6 +431,6 @@
       "user": "books-are-next",
       "repo": "vychova-divek-v-cechach"
     },
-    "generatedAt": 1655980068901
+    "generatedAt": 1657182682634
   }
 }
