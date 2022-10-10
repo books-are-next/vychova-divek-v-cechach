@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vychova-divek-v-cechach-5071b13",
-  "revision": "5071b13",
+  "identifier": "viewegh-vychova-divek-v-cechach-6226c58",
+  "revision": "6226c58",
   "readingOrder": [
     "promo.html",
     "vychova_divek_v_cechach_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:09:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151758249
+    "date": "Mon Oct 10 2022 16:01:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417700530
   },
   "documents": [
     {
@@ -698,7 +698,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 145,
-      "chars": 944,
+      "chars": 945,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -718,7 +718,7 @@
   "totals": {
     "all": {
       "words": 43319,
-      "chars": 273082,
+      "chars": 273083,
       "ideas": 2544
     },
     "chapters": {
