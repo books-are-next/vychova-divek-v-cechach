@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-vychova-divek-v-cechach-6226c58",
-  "revision": "6226c58",
+  "identifier": "viewegh-vychova-divek-v-cechach-93a8a79",
+  "revision": "93a8a79",
   "readingOrder": [
     "promo.html",
     "vychova_divek_v_cechach_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:01:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417700530
+    "date": "Fri Oct 21 2022 11:47:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352828912
   },
   "documents": [
     {
